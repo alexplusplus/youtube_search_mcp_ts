@@ -1,0 +1,35 @@
+{
+  "name": "youtube-search-mcp",
+  "version": "0.1.0",
+  "description": "Personal MCP server that returns the overlap of YouTube's relevance- and view-count-ordered searches.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/node.ts",
+    "dev:worker": "wrangler dev",
+    "deploy:worker": "wrangler deploy",
+    "typecheck": "tsc",
+    "lint": "biome check",
+    "format": "biome check --write",
+    "test": "vitest run",
+    "test:live": "vitest run --mode live",
+    "check": "biome check && tsc && vitest run"
+  },
+  "dependencies": {
+    "@hono/node-server": "^2.1.5",
+    "@modelcontextprotocol/server": "^2.4.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.6.2",
+    "@modelcontextprotocol/client": "^2.4.0",
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5",
+    "wrangler": "^4.152.0"
+  }
+}

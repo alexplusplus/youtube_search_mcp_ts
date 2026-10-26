@@ -1,0 +1,10 @@
+#!include:.gitignore 
+.env
+.dev.vars
+node_modules/
+.wrangler/
+.claude/
+.git/
+tests/
+docs/
+deploy.txt
