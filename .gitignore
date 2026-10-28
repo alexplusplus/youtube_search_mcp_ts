@@ -1,5 +1,6 @@
 .env
 .dev.vars
+.mcp.json
 node_modules/
 .wrangler/
 .claude/

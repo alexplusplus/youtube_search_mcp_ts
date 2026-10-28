@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "youtube-search": {
-      "type": "http",
-      "url": "https://youtube-search-mcp.alexanderekb.workers.dev/mcp"
-    }
-  }
-}
