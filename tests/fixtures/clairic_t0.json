@@ -1,0 +1,742 @@
+[
+ {
+  "id": "zbCxi7CjiF0",
+  "title": "\"I built Claude Code. Here are my ten hacks\" (masterclass)",
+  "channel": "Nick Saraev",
+  "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n📚 Watch my NEW 2026 Claude Code course: https://www.youtube.com/watch?v=QoQBzR1NIqI\n💼 Work with my team: https://dub.sh/work-with-me-nki\n\n🎙️ Listen to my silly podcast: www.youtube.com/@stackedpod\n\n📚 Free multi-hour courses\n→ Claude Code (4hr full course): https://www.youtube.com/watch?v=QoQBzR1NIqI\n→ Vibe Coding w/ Antigravity (6hr full course): https://www.youtube.com/watch?v=gcuR_-rzlDw\n→ Agentic Workflows (6hr full course): https://www.youtube.com/watch?v=MxyRjL7NG18\n→ N8N (6hr full course, 890K+ views): https://www.youtube.com/watch?v=2GZ2SNXWK-c\n\nSummary ⤵️\n3 simple yet high-value AI automations that coaches will gladly pay $1.5K for — even if they sound boring. These aren’t flashy, but they solve real problems and sell easily.\n\nMy software, tools, & deals (some give me kickbacks—thank you!)\n🚀 Instantly: https://link.nicksaraev.com/instantly-short\n📧 Anymailfinder: https://link.nicksaraev.com/amf-short\n🤖 Apify: https://console.apify.com/sign-up (30% off with code 30NICKSARAEV)\n🧑🏽‍💻 n8n: https://n8n.partnerlinks.io/h372ujv8cw80\n📈 Rize: https://link.nicksaraev.com/rize-short (25% off with promo code NICK)\n\nFollow me on other platforms 😈\n📸 Instagram: https://www.instagram.com/nick_saraev\n🕊️ Twitter/X: https://twitter.com/nicksaraev\n🤙 Blog: https://nicksaraev.com\n\nWhy watch?\nIf this is your first view—hi, I’m Nick! TLDR: I spent six years building automated businesses with Make.com (most notably 1SecondCopy, a content company that hit 7 figures). Today a lot of people talk about automation, but I’ve noticed that very few have practical, real world success making money with it. So this channel is me chiming in and showing you what *real* systems that make *real* revenue look like.\n\nHopefully I can help you improve your business, and in doing so, the rest of your life 🙏\n\nLike, subscribe, and leave me a comment if you have a specific request! Thanks.\n\nChapters\n00:00 Introduction & Boris Cherny\n02:27 Git Worktrees Explained\n06:04 The Importance of Planning\n09:11 Enhancing Claude.md\n10:48 Utilizing Skills and Git Commits\n11:49 Streamlining Bug Fixes\n12:23 Crafting Better Prompts\n13:37 The Power of Ghost TTY\n15:44 Leveraging Sub-Agents\n18:37 Explanatory Output Style",
+  "state": "Video title: \"I built Claude Code. Here are my ten hacks\" (masterclass)\nChannel: Nick Saraev\n\nVideo description:\n🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n📚 Watch my NEW 2026 Claude Code course: https://www.youtube.com/watch?v=QoQBzR1NIqI\n💼 Work with my team: https://dub.sh/work-with-me-nki\n\n🎙️ Listen to my silly podcast: www.youtube.com/@stackedpod\n\n📚 Free multi-hour courses\n→ Claude Code (4hr full course): https://www.youtube.com/watch?v=QoQBzR1NIqI\n→ Vibe Coding w/ Antigravity (6hr full course): https://www.youtube.com/watch?v=gcuR_-rzlDw\n→ Agentic Workflows (6hr full course): https://www.youtube.com/watch?v=MxyRjL7NG18\n→ N8N (6hr full course, 890K+ views): https://www.youtube.com/watch?v=2GZ2SNXWK-c\n\nSummary ⤵️\n3 simple yet high-value AI automations that coaches will gladly pay $1.5K for — even if they sound boring. These aren’t flashy, but they solve real problems and sell easily.\n\nMy software, tools, & deals (some give me kickbacks—thank you!)\n🚀 Instantly: https://link.nicksaraev.com/instantly-short\n📧 Anymailfinder: https://link.nicksaraev.com/amf-short\n🤖 Apify: https://console.apify.com/sign-up (30% off with code 30NICKSARAEV)\n🧑🏽‍💻 n8n: https://n8n.partnerlinks.io/h372ujv8cw80\n📈 Rize: https://link.nicksaraev.com/rize-short (25% off with promo code NICK)\n\nFollow me on other platforms 😈\n📸 Instagram: https://www.instagram.com/nick_saraev\n🕊️ Twitter/X: https://twitter.com/nicksaraev\n🤙 Blog: https://nicksaraev.com\n\nWhy watch?\nIf this is your first view—hi, I’m Nick! TLDR: I spent six years building automated businesses with Make.com (most notably 1SecondCopy, a content company that hit 7 figures). Today a lot of people talk about automation, but I’ve noticed that very few have practical, real world success making money with it. So this channel is me chiming in and showing you what *real* systems that make *real* revenue look like.\n\nHopefully I can help you improve your business, and in doing so, the rest of your life 🙏\n\nLike, subscribe, and leave me a comment if you have a specific request! Thanks.\n",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "3 simple yet high-value AI automations that coaches will gladly pay $1.5K for",
+    "span": [
+     769,
+     846
+    ],
+    "confidence": 0.20534217357635498
+   },
+   "content_last": {
+    "value": "Like, subscribe, and leave me a comment if you have a specific request!",
+    "span": [
+     2000,
+     2071
+    ],
+    "confidence": 0.12958864867687225
+   }
+  },
+  "fallback": false,
+  "output": "3 simple yet high-value AI automations that coaches will gladly pay $1.5K for — even if they sound boring. These aren’t flashy, but they solve real problems and sell easily.\n\nMy software, tools, & deals (some give me kickbacks—thank you!)\n🚀 Instantly: https://link.nicksaraev.com/instantly-short\n📧 Anymailfinder: https://link.nicksaraev.com/amf-short\n🤖 Apify: https://console.apify.com/sign-up (30% off with code 30NICKSARAEV)\n🧑🏽‍💻 n8n: https://n8n.partnerlinks.io/h372ujv8cw80\n📈 Rize: https://link.nicksaraev.com/rize-short (25% off with promo code NICK)\n\nFollow me on other platforms 😈\n📸 Instagram: https://www.instagram.com/nick_saraev\n🕊️ Twitter/X: https://twitter.com/nicksaraev\n🤙 Blog: https://nicksaraev.com\n\nWhy watch?\nIf this is your first view—hi, I’m Nick! TLDR: I spent six years building automated businesses with Make.com (most notably 1SecondCopy, a content company that hit 7 figures). Today a lot of people talk about automation, but I’ve noticed that very few have practical, real world success making money with it. So this channel is me chiming in and showing you what *real* systems that make *real* revenue look like.\n\nHopefully I can help you improve your business, and in doing so, the rest of your life 🙏\n\nLike, subscribe, and leave me a comment if you have a specific request! Thanks.\nChapters\n00:00 Introduction & Boris Cherny\n02:27 Git Worktrees Explained\n06:04 The Importance of Planning\n09:11 Enhancing Claude.md\n10:48 Utilizing Skills and Git Commits\n11:49 Streamlining Bug Fixes\n12:23 Crafting Better Prompts\n13:37 The Power of Ghost TTY\n15:44 Leveraging Sub-Agents\n18:37 Explanatory Output Style"
+ },
+ {
+  "id": "0-QDPnEIkvw",
+  "title": "Build a Self Improving Claude Knowledge Base",
+  "channel": "Paul J Lipsky",
+  "description": "#ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow. Start building with Zapier MCP today:  https://bit.ly/3QDA0xF\n\nBuild a knowledge base that organizes itself and gets smarter every night. In this video I show you the exact Karpathy-style \"LLM wiki\" setup I run, built in Claude Cowork with plain markdown files you view in Obsidian. You drop your notes, articles, and transcripts in, the AI builds a connected map of everything you know, and a nightly scheduled task keeps it updated while you sleep. \n\nResources:\nZapier MCP: https://bit.ly/3QDA0xF\nObsidian: https://obsidian.md/\nObsidian Web Clipper: https://obsidian.md/clipper\nFree setup prompts (Google Doc): https://docs.google.com/document/d/1OuGOpp8aJkUtGSH55qy-OHmI94HexeXZAGz_XcY8-P0/edit?usp=sharing\n\n\nThis video is sponsored by Zapier.\n\n0:00 Intro\n0:50 What We're Building\n2:04 My Knowledge Base\n3:46 Build Anything\n4:51 Obsidian\n6:28 Cowork\n7:42 Zapier MCP \n9:27 One Prompt\n12:22 Other Use Cases",
+  "state": "Video title: Build a Self Improving Claude Knowledge Base\nChannel: Paul J Lipsky\n\nVideo description:\n#ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow. Start building with Zapier MCP today:  https://bit.ly/3QDA0xF\n\nBuild a knowledge base that organizes itself and gets smarter every night. In this video I show you the exact Karpathy-style \"LLM wiki\" setup I run, built in Claude Cowork with plain markdown files you view in Obsidian. You drop your notes, articles, and transcripts in, the AI builds a connected map of everything you know, and a nightly scheduled task keeps it updated while you sleep. \n\nResources:\nZapier MCP: https://bit.ly/3QDA0xF\nObsidian: https://obsidian.md/\nObsidian Web Clipper: https://obsidian.md/clipper\nFree setup prompts (Google Doc): https://docs.google.com/document/d/1OuGOpp8aJkUtGSH55qy-OHmI94HexeXZAGz_XcY8-P0/edit?usp=sharing\n\n\nThis video is sponsored by Zapier.\n",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "Build a knowledge base that organizes itself and gets smarter every night",
+    "span": [
+     285,
+     358
+    ],
+    "confidence": 0.6158977746963501
+   },
+   "content_last": {
+    "value": "Build a knowledge base that organizes itself and gets smarter every night",
+    "span": [
+     285,
+     358
+    ],
+    "confidence": 0.2837124168872833
+   }
+  },
+  "fallback": false,
+  "output": "Build a knowledge base that organizes itself and gets smarter every night. In this video I show you the exact Karpathy-style \"LLM wiki\" setup I run, built in Claude Cowork with plain markdown files you view in Obsidian. You drop your notes, articles, and transcripts in, the AI builds a connected map of everything you know, and a nightly scheduled task keeps it updated while you sleep. \n0:00 Intro\n0:50 What We're Building\n2:04 My Knowledge Base\n3:46 Build Anything\n4:51 Obsidian\n6:28 Cowork\n7:42 Zapier MCP \n9:27 One Prompt\n12:22 Other Use Cases"
+ },
+ {
+  "id": "4hKJ9X6rGFo",
+  "title": "Build & Sell Grok Bots (2 Hour Course)",
+  "channel": "Nate Herk | AI Automation",
+  "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=grok-bot-2-hour-course&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nGrok Bot gives you AI teammates that can use your tools, talk to each other, and keep work moving while you are away. \n\nIn this full course, I build a Grok Bot team from scratch using my four Cs framework: context, connections, capabilities, and cadence. You will see agents handle email, ClickUp, content creation, meeting transcripts, Slack routines, bot templates, and more, plus how you could package GrokBot setup as a service.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS \n0:00 What Grok Bot Can Do\n6:00 Building Your Agent Team\n9:24 The Four Cs Framework\n12:05 Complete Grok Bot Setup\n15:09 Adding Business Context\n19:43 Building an Inbox Agent\n30:00 Feedback Loops & Skills\n38:17 Usage, Browser Control & Verification\n43:44 Multi-Agent Delegation\n50:16 Logging Work in ClickUp\n55:25 Teams, Channels & Shared Memory\n1:00:18 More Connections With Composio\n1:04:43 Building a Video Agent\n1:08:24 Shared Files & Context\n1:14:34 Automating Meeting Transcripts\n1:18:24 Building an AI Marketing Team\n1:26:41 Slack-Triggered Routines\n1:32:11 Sending Outputs to Other Tools\n1:34:28 Sharing Bot Templates\n1:38:57 Selling Grok Bot Services\n1:45:22 Final Thoughts",
+  "state": "Video title: Build & Sell Grok Bots (2 Hour Course)\nChannel: Nate Herk | AI Automation\n\nVideo description:\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=grok-bot-2-hour-course&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nGrok Bot gives you AI teammates that can use your tools, talk to each other, and keep work moving while you are away. \n\nIn this full course, I build a Grok Bot team from scratch using my four Cs framework: context, connections, capabilities, and cadence. You will see agents handle email, ClickUp, content creation, meeting transcripts, Slack routines, bot templates, and more, plus how you could package GrokBot setup as a service.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "Grok Bot gives you AI teammates that can use your tools, talk to each other, and keep work moving while you are away",
+    "span": [
+     503,
+     619
+    ],
+    "confidence": 0.22743436694145203
+   },
+   "content_last": {
+    "value": "You will see agents handle email, ClickUp, content creation, meeting transcripts, Slack routines, bot templates, and more, plus how you could package GrokBot setup as a service.",
+    "span": [
+     758,
+     935
+    ],
+    "confidence": 0.41234922409057617
+   }
+  },
+  "fallback": false,
+  "output": "Grok Bot gives you AI teammates that can use your tools, talk to each other, and keep work moving while you are away. \n\nIn this full course, I build a Grok Bot team from scratch using my four Cs framework: context, connections, capabilities, and cadence. You will see agents handle email, ClickUp, content creation, meeting transcripts, Slack routines, bot templates, and more, plus how you could package GrokBot setup as a service.\nTIMESTAMPS \n0:00 What Grok Bot Can Do\n6:00 Building Your Agent Team\n9:24 The Four Cs Framework\n12:05 Complete Grok Bot Setup\n15:09 Adding Business Context\n19:43 Building an Inbox Agent\n30:00 Feedback Loops & Skills\n38:17 Usage, Browser Control & Verification\n43:44 Multi-Agent Delegation\n50:16 Logging Work in ClickUp\n55:25 Teams, Channels & Shared Memory\n1:00:18 More Connections With Composio\n1:04:43 Building a Video Agent\n1:08:24 Shared Files & Context\n1:14:34 Automating Meeting Transcripts\n1:18:24 Building an AI Marketing Team\n1:26:41 Slack-Triggered Routines\n1:32:11 Sending Outputs to Other Tools\n1:34:28 Sharing Bot Templates\n1:38:57 Selling Grok Bot Services\n1:45:22 Final Thoughts"
+ },
+ {
+  "id": "UNzCG3lw6O0",
+  "title": "Building Great Agent Skills: The Missing Manual",
+  "channel": "AI Engineer",
+  "description": "Let's discuss how to navigate \"skill hell\" by providing a structured framework for building high-quality agent skills. Without a shared rubric, developers and organizations struggle to create effective, maintainable skills for AI agents.\n\nTimestamps:\n\n0:00 - Introduction to the talk and the concept of \"skill hell\"\n2:12 - Overview of the skill checklist framework\n3:16 - Trigger: Choosing between user-invoked and model-invoked skills\n7:29 - Structure: Organizing steps and references\n9:00 - Making the skill.md file minimal\n11:54 - Steering: Using leading words to guide agent behavior\n14:56 - Increasing \"leg work\" per step\n16:48 - Pruning: Removing sediment, crud, and no-ops\n19:06 - Final summary of the checklist framework\n19:55 - Where to find the \"writing great skills\" resource\n\nThe Skill Checklist Framework:\n\nTrigger (3:16 - 7:25): Decide whether a skill should be user-invoked or model-invoked. Matt notes that while model-invoked skills offer more flexibility, they increase context load and introduce unpredictability. User-invoked skills offer more control but require greater cognitive load from the pilot.\n\nStructure (7:29 - 11:53): Organize your skill into two primary units: steps (procedures) and reference (supporting information). To keep the skill.md file minimal, move branching reference material behind context pointers to reduce bloat and maintenance costs.\n\nSteering (11:54 - 16:47): Use leading words—specific terms that pack dense meaning—to influence agent behavior and guide reasoning traces. Additionally, you can force the agent to perform more \"leg work\" on specific tasks by breaking complex processes into smaller, individual skills that hide future steps.\n\nPruning (16:48 - 19:05): Maintain a clean skill set by ensuring a single source of truth, removing \"sediment\" (irrelevant legacy material), and eliminating \"no-ops\" (instructions that don't actually change agent behavior).\n\nhttps://github.com/mattpocock/skills/blob/main/skills/productivity/writing-great-skills/SKILL.md",
+  "state": "Video title: Building Great Agent Skills: The Missing Manual\nChannel: AI Engineer\n\nVideo description:\nLet's discuss how to navigate \"skill hell\" by providing a structured framework for building high-quality agent skills. Without a shared rubric, developers and organizations struggle to create effective, maintainable skills for AI agents.\n\n\n\nThe Skill Checklist Framework:\n\nTrigger (3:16 - 7:25): Decide whether a skill should be user-invoked or model-invoked. Matt notes that while model-invoked skills offer more flexibility, they increase context load and introduce unpredictability. User-invoked skills offer more control but require greater cognitive load from the pilot.\n\nStructure (7:29 - 11:53): Organize your skill into two primary units: steps (procedures) and reference (supporting information). To keep the skill.md file minimal, move branching reference material behind context pointers to reduce bloat and maintenance costs.\n\nSteering (11:54 - 16:47): Use leading words—specific terms that pack dense meaning—to influence agent behavior and guide reasoning traces. Additionally, you can force the agent to perform more \"leg work\" on specific tasks by breaking complex processes into smaller, individual skills that hide future steps.\n\nPruning (16:48 - 19:05): Maintain a clean skill set by ensuring a single source of truth, removing \"sediment\" (irrelevant legacy material), and eliminating \"no-ops\" (instructions that don't actually change agent behavior).\n\nhttps://github.com/mattpocock/skills/blob/main/skills/productivity/writing-great-skills/SKILL.md",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "Let's discuss how to navigate \"skill hell\" by providing a structured framework for building high-quality agent skills",
+    "span": [
+     102,
+     219
+    ],
+    "confidence": 0.38817498087882996
+   },
+   "content_last": {
+    "value": "https://github.com/mattpocock/skills/blob/main/skills/productivity/writing-great-skills/SKILL.md",
+    "span": [
+     1474,
+     1570
+    ],
+    "confidence": 0.632318913936615
+   }
+  },
+  "fallback": false,
+  "output": "Let's discuss how to navigate \"skill hell\" by providing a structured framework for building high-quality agent skills. Without a shared rubric, developers and organizations struggle to create effective, maintainable skills for AI agents.\n\nTimestamps:\n\n0:00 - Introduction to the talk and the concept of \"skill hell\"\n2:12 - Overview of the skill checklist framework\n3:16 - Trigger: Choosing between user-invoked and model-invoked skills\n7:29 - Structure: Organizing steps and references\n9:00 - Making the skill.md file minimal\n11:54 - Steering: Using leading words to guide agent behavior\n14:56 - Increasing \"leg work\" per step\n16:48 - Pruning: Removing sediment, crud, and no-ops\n19:06 - Final summary of the checklist framework\n19:55 - Where to find the \"writing great skills\" resource\n\nThe Skill Checklist Framework:\n\nTrigger (3:16 - 7:25): Decide whether a skill should be user-invoked or model-invoked. Matt notes that while model-invoked skills offer more flexibility, they increase context load and introduce unpredictability. User-invoked skills offer more control but require greater cognitive load from the pilot.\n\nStructure (7:29 - 11:53): Organize your skill into two primary units: steps (procedures) and reference (supporting information). To keep the skill.md file minimal, move branching reference material behind context pointers to reduce bloat and maintenance costs.\n\nSteering (11:54 - 16:47): Use leading words—specific terms that pack dense meaning—to influence agent behavior and guide reasoning traces. Additionally, you can force the agent to perform more \"leg work\" on specific tasks by breaking complex processes into smaller, individual skills that hide future steps.\n\nPruning (16:48 - 19:05): Maintain a clean skill set by ensuring a single source of truth, removing \"sediment\" (irrelevant legacy material), and eliminating \"no-ops\" (instructions that don't actually change agent behavior).\n\nhttps://github.com/mattpocock/skills/blob/main/skills/productivity/writing-great-skills/SKILL.md"
+ },
+ {
+  "id": "Paj9mPM6zqg",
+  "title": "This Nobel Prize Discovery Reverses Aging In 3 Days",
+  "channel": "Dr David Jockers",
+  "description": "✅ Free Fasting Quickstart Guide:  https://shorturl.at/WyYH2\n✅ Get My Activating Autophagy Guide:  https://shorturl.at/YRfMI\n\nThis video talks about the Nobel Prize-winning discovery of autophagy by Japanese cell biologist Yoshinori Ohsumi, PhD. It talks about what autophagy does to your body and the different protocols for activating it with fasting.\n\n00:00 🏆 The Nobel Prize Anti-Aging Switch\n00:50 🧬 Chronological vs. Biological Age\n01:24 🧫 The Yeast Experiment That Started It All\n02:10 🧹 What Autophagy Actually Does\n02:42 ⚖️ The Growth vs. Cleanup Seesaw\n04:20 🔑 Turning the Switch Back On: Fasting\n05:35 📆 The 3-Day Fast, Day by Day\n06:58 💪 Q&A: Will Fasting Kill My Muscle?\n09:06 🚫 Q&A: Who Should Avoid a 72-Hour Fast?\n09:55 🔁 Q&A: How Often to Repeat the Fast\n11:33 🌱 Final Thoughts: The Power of Subtraction\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Listen on Spotify:\nSpotify - https://open.spotify.com/show/5l0LkYqW29ksV9Ut3hPuto\n\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/",
+  "state": "Video title: This Nobel Prize Discovery Reverses Aging In 3 Days\nChannel: Dr David Jockers\n\nVideo description:\n✅ Free Fasting Quickstart Guide:  https://shorturl.at/WyYH2\n✅ Get My Activating Autophagy Guide:  https://shorturl.at/YRfMI\n\nThis video talks about the Nobel Prize-winning discovery of autophagy by Japanese cell biologist Yoshinori Ohsumi, PhD. It talks about what autophagy does to your body and the different protocols for activating it with fasting.\n\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Listen on Spotify:\nSpotify - https://open.spotify.com/show/5l0LkYqW29ksV9Ut3hPuto\n\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "the Nobel Prize-winning discovery of autophagy by Japanese cell biologist Yoshinori Ohsumi, PhD",
+    "span": [
+     259,
+     354
+    ],
+    "confidence": 0.22752271592617035
+   },
+   "content_last": {
+    "value": "the Nobel Prize-winning discovery of autophagy by Japanese cell biologist Yoshinori Ohsumi, PhD. It talks about what autophagy does to your body and the different protocols for activating it with fasting",
+    "span": [
+     259,
+     462
+    ],
+    "confidence": 0.10634539276361465
+   }
+  },
+  "fallback": false,
+  "output": "This video talks about the Nobel Prize-winning discovery of autophagy by Japanese cell biologist Yoshinori Ohsumi, PhD. It talks about what autophagy does to your body and the different protocols for activating it with fasting.\n00:00 🏆 The Nobel Prize Anti-Aging Switch\n00:50 🧬 Chronological vs. Biological Age\n01:24 🧫 The Yeast Experiment That Started It All\n02:10 🧹 What Autophagy Actually Does\n02:42 ⚖️ The Growth vs. Cleanup Seesaw\n04:20 🔑 Turning the Switch Back On: Fasting\n05:35 📆 The 3-Day Fast, Day by Day\n06:58 💪 Q&A: Will Fasting Kill My Muscle?\n09:06 🚫 Q&A: Who Should Avoid a 72-Hour Fast?\n09:55 🔁 Q&A: How Often to Repeat the Fast\n11:33 🌱 Final Thoughts: The Power of Subtraction"
+ },
+ {
+  "id": "nTWe3P7hjxs",
+  "title": "US Lost 108K Jobs in Jan 2026, Most Gone Forever (AI)",
+  "channel": "Nick Saraev",
+  "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n📚 Watch my NEW 2026 Claude Code course: https://www.youtube.com/watch?v=QoQBzR1NIqI\n💼 Work with my team: https://dub.sh/work-with-me-xuf\n\n🎙️ Listen to my silly podcast: www.youtube.com/@stackedpod\n\n📚 Free multi-hour courses\n→ Claude Code (4hr full course): https://www.youtube.com/watch?v=QoQBzR1NIqI\n→ Vibe Coding w/ Antigravity (6hr full course): https://www.youtube.com/watch?v=gcuR_-rzlDw\n→ Agentic Workflows (6hr full course): https://www.youtube.com/watch?v=MxyRjL7NG18\n→ N8N (6hr full course, 890K+ views): https://www.youtube.com/watch?v=2GZ2SNXWK-c\n\nSummary ⤵️\nThe next couple of years are going to be quite disruptive. Especially with models like Opus-4.6, GPT-5.3, etc.\n\nMy software, tools, & deals (some give me kickbacks—thank you!)\n🚀 Instantly: https://link.nicksaraev.com/instantly-short\n📧 Anymailfinder: https://link.nicksaraev.com/amf-short\n🤖 Apify: https://console.apify.com/sign-up (30% off with code 30NICKSARAEV)\n🧑🏽‍💻 n8n: https://n8n.partnerlinks.io/h372ujv8cw80\n📈 Rize: https://link.nicksaraev.com/rize-short (25% off with promo code NICK)\n\nFollow me on other platforms 😈\n📸 Instagram: https://www.instagram.com/nick_saraev\n🕊️ Twitter/X: https://twitter.com/nicksaraev\n🤙 Blog: https://nicksaraev.com\n\nWhy watch?\nIf this is your first view—hi, I’m Nick! TLDR: I spent six years building automated businesses with Make.com (most notably 1SecondCopy, a content company that hit 7 figures). Today a lot of people talk about automation, but I’ve noticed that very few have practical, real world success making money with it. So this channel is me chiming in and showing you what *real* systems that make *real* revenue look like.\n\nHopefully I can help you improve your business, and in doing so, the rest of your life 🙏\n\nLike, subscribe, and leave me a comment if you have a specific request! Thanks.\n\nChapters\n00:00 The Impact of AI on Employment\n01:53 The Transition to New Work Models\n06:44 The Vision of a Post-Scarcity Society\n13:24 The Need for Economic Reform\n14:18 Exploring Alternative Compensation Systems\n18:31 Navigating the Future of Work",
+  "state": "Video title: US Lost 108K Jobs in Jan 2026, Most Gone Forever (AI)\nChannel: Nick Saraev\n\nVideo description:\n🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n📚 Watch my NEW 2026 Claude Code course: https://www.youtube.com/watch?v=QoQBzR1NIqI\n💼 Work with my team: https://dub.sh/work-with-me-xuf\n\n🎙️ Listen to my silly podcast: www.youtube.com/@stackedpod\n\n📚 Free multi-hour courses\n→ Claude Code (4hr full course): https://www.youtube.com/watch?v=QoQBzR1NIqI\n→ Vibe Coding w/ Antigravity (6hr full course): https://www.youtube.com/watch?v=gcuR_-rzlDw\n→ Agentic Workflows (6hr full course): https://www.youtube.com/watch?v=MxyRjL7NG18\n→ N8N (6hr full course, 890K+ views): https://www.youtube.com/watch?v=2GZ2SNXWK-c\n\nSummary ⤵️\nThe next couple of years are going to be quite disruptive. Especially with models like Opus-4.6, GPT-5.3, etc.\n\nMy software, tools, & deals (some give me kickbacks—thank you!)\n🚀 Instantly: https://link.nicksaraev.com/instantly-short\n📧 Anymailfinder: https://link.nicksaraev.com/amf-short\n🤖 Apify: https://console.apify.com/sign-up (30% off with code 30NICKSARAEV)\n🧑🏽‍💻 n8n: https://n8n.partnerlinks.io/h372ujv8cw80\n📈 Rize: https://link.nicksaraev.com/rize-short (25% off with promo code NICK)\n\nFollow me on other platforms 😈\n📸 Instagram: https://www.instagram.com/nick_saraev\n🕊️ Twitter/X: https://twitter.com/nicksaraev\n🤙 Blog: https://nicksaraev.com\n\nWhy watch?\nIf this is your first view—hi, I’m Nick! TLDR: I spent six years building automated businesses with Make.com (most notably 1SecondCopy, a content company that hit 7 figures). Today a lot of people talk about automation, but I’ve noticed that very few have practical, real world success making money with it. So this channel is me chiming in and showing you what *real* systems that make *real* revenue look like.\n\nHopefully I can help you improve your business, and in doing so, the rest of your life 🙏\n\nLike, subscribe, and leave me a comment if you have a specific request! Thanks.\n",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "The next couple of years are going to be quite disruptive. Especially with models like Opus-4.6, GPT-5.3, etc.",
+    "span": [
+     764,
+     874
+    ],
+    "confidence": 0.190408393740654
+   },
+   "content_last": {
+    "value": "US Lost 108K Jobs in Jan 2026, Most Gone Forever",
+    "span": [
+     13,
+     61
+    ],
+    "confidence": 0.20220042765140533
+   }
+  },
+  "fallback": false,
+  "output": "The next couple of years are going to be quite disruptive. Especially with models like Opus-4.6, GPT-5.3, etc.\n\nMy software, tools, & deals (some give me kickbacks—thank you!)\n🚀 Instantly: https://link.nicksaraev.com/instantly-short\n📧 Anymailfinder: https://link.nicksaraev.com/amf-short\n🤖 Apify: https://console.apify.com/sign-up (30% off with code 30NICKSARAEV)\n🧑🏽‍💻 n8n: https://n8n.partnerlinks.io/h372ujv8cw80\n📈 Rize: https://link.nicksaraev.com/rize-short (25% off with promo code NICK)\n\nFollow me on other platforms 😈\n📸 Instagram: https://www.instagram.com/nick_saraev\n🕊️ Twitter/X: https://twitter.com/nicksaraev\n🤙 Blog: https://nicksaraev.com\n\nWhy watch?\nIf this is your first view—hi, I’m Nick! TLDR: I spent six years building automated businesses with Make.com (most notably 1SecondCopy, a content company that hit 7 figures). Today a lot of people talk about automation, but I’ve noticed that very few have practical, real world success making money with it. So this channel is me chiming in and showing you what *real* systems that make *real* revenue look like.\n\nHopefully I can help you improve your business, and in doing so, the rest of your life 🙏\n\nLike, subscribe, and leave me a comment if you have a specific request! Thanks.\n\nChapters\n00:00 The Impact of AI on Employment\n01:53 The Transition to New Work Models\n06:44 The Vision of a Post-Scarcity Society\n13:24 The Need for Economic Reform\n14:18 Exploring Alternative Compensation Systems\n18:31 Navigating the Future of Work"
+ },
+ {
+  "id": "qibRD9AWjx0",
+  "title": "I Researched 100+ Supplements: The Truth About What Actually Works",
+  "channel": "Siim Land",
+  "description": "Get The New Science of Supplements book: https://amzn.to/4ebe2Lw\nTimestamps:\n00:00 Intro\n00:30 Top evidence-based supplements\n29:55 Supplements with the worst evidence\n34:25 Supplements that need more research\n47:58 Conclusion\n\n100 Supplements Ranked Tierlist Worst to Best: https://youtu.be/W8DZbYyuDmA\n\nStart rewinding your biological clock: https://www.siimland.co/course\n\nP.S. This is not professional medical advice and should not be taken as such. The creator of this video is not held accountable for your health. Consult your doctor first.",
+  "state": "Video title: I Researched 100+ Supplements: The Truth About What Actually Works\nChannel: Siim Land\n\nVideo description:\nGet The New Science of Supplements book: https://amzn.to/4ebe2Lw\n\n100 Supplements Ranked Tierlist Worst to Best: https://youtu.be/W8DZbYyuDmA\n\nStart rewinding your biological clock: https://www.siimland.co/course\n\nP.S. This is not professional medical advice and should not be taken as such. The creator of this video is not held accountable for your health. Consult your doctor first.",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "100 Supplements Ranked Tierlist Worst to Best",
+    "span": [
+     185,
+     230
+    ],
+    "confidence": 0.433952271938324
+   },
+   "content_last": {
+    "value": "100 Supplements Ranked Tierlist Worst to Best",
+    "span": [
+     185,
+     230
+    ],
+    "confidence": 0.3652324676513672
+   }
+  },
+  "fallback": false,
+  "output": "Timestamps:\n00:00 Intro\n00:30 Top evidence-based supplements\n29:55 Supplements with the worst evidence\n34:25 Supplements that need more research\n47:58 Conclusion\n100 Supplements Ranked Tierlist Worst to Best: https://youtu.be/W8DZbYyuDmA"
+ },
+ {
+  "id": "o3IEkKXXXvo",
+  "title": "GPT-6 Astra Finally Solves AI Video Editing (full guide)",
+  "channel": "Nate Herk | AI Automation",
+  "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=astra-6-video-edit&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nHyperframes: https://github.com/nateherkai/hyperframes-student-kit\n\nLearn how to edit videos with Codex and Hyperframes using plain English. I walk through the setup, connect ElevenLabs for transcription, and build an intro with motion graphics, synced subtitles, and 3D animations. \n\nYou'll also see examples of YouTube edits, reels, and ads, plus how to refine the results and turn an editing style into a reusable skill.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS \n0:00 What You Can Create\n1:26 Editing YouTube Videos\n3:05 Reels, Ads, and B-Roll\n9:32 Setting Up Codex and Hyperframes\n10:58 The AI Editing Workflow\n13:41 Setting Up ElevenLabs\n16:47 Directing the Intro Edit\n22:58 Turning Edits Into Skills\n23:42 Reviewing and Refining the Edit\n26:33 Hyperframes Studio and Final Versions\n29:14 Final Thoughts and Free Skills",
+  "state": "Video title: GPT-6 Astra Finally Solves AI Video Editing (full guide)\nChannel: Nate Herk | AI Automation\n\nVideo description:\nMy playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=astra-6-video-edit&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nHyperframes: https://github.com/nateherkai/hyperframes-student-kit\n\nLearn how to edit videos with Codex and Hyperframes using plain English. I walk through the setup, connect ElevenLabs for transcription, and build an intro with motion graphics, synced subtitles, and 3D animations. \n\nYou'll also see examples of YouTube edits, reels, and ads, plus how to refine the results and turn an editing style into a reusable skill.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "Learn how to edit videos with Codex and Hyperframes using plain English",
+    "span": [
+     585,
+     656
+    ],
+    "confidence": 0.3426208198070526
+   },
+   "content_last": {
+    "value": "You'll also see examples of YouTube edits, reels, and ads, plus how to refine the results and turn an editing style into a reusable skill.",
+    "span": [
+     802,
+     940
+    ],
+    "confidence": 0.44475486874580383
+   }
+  },
+  "fallback": false,
+  "output": "Learn how to edit videos with Codex and Hyperframes using plain English. I walk through the setup, connect ElevenLabs for transcription, and build an intro with motion graphics, synced subtitles, and 3D animations. \n\nYou'll also see examples of YouTube edits, reels, and ads, plus how to refine the results and turn an editing style into a reusable skill.\nTIMESTAMPS \n0:00 What You Can Create\n1:26 Editing YouTube Videos\n3:05 Reels, Ads, and B-Roll\n9:32 Setting Up Codex and Hyperframes\n10:58 The AI Editing Workflow\n13:41 Setting Up ElevenLabs\n16:47 Directing the Intro Edit\n22:58 Turning Edits Into Skills\n23:42 Reviewing and Refining the Edit\n26:33 Hyperframes Studio and Final Versions\n29:14 Final Thoughts and Free Skills"
+ },
+ {
+  "id": "V2RIVnGCy74",
+  "title": "Use These 17 Claude Plugins, It Will Make You 10x Better.",
+  "channel": "Chase AI",
+  "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nSkills, CLIs, and Plugins are the easiest way to supercharge your Claude Code experience, but which ones are actually worth it? In this video, I dive into 17 of my favorite.\n\n🔌Plugins\n\nTaste Skill - https://github.com/leonxlnx/taste-skill\nImpeccable - https://github.com/pbakaus/impeccable\nAwesome Design - https://github.com/voltagent/awesome-design-md\nPonytail - https://github.com/DietrichGebert/ponytail\nNotebooklm-py - https://github.com/teng-lin/notebooklm-py\nPlaywright CLI - https://playwright.dev/agent-cli/introduction\nCodex Plugin - https://github.com/openai/codex-plugin-cc\nGWS - https://github.com/googleworkspace/cli#installation\nGitHub CLI - https://cli.github.com/\nSkill Creator - https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md\nLast 30 Days - https://github.com/mvanhorn/last30days-skill\nFirecrawl - https://github.com/firecrawl/firecrawl\nAutoresearch - https://github.com/karpathy/autoresearch\nSupabase CLI - https://github.com/supabase/cli\nObsidian - https://github.com/kepano/obsidian-skills\nLightRAG - https://github.com/hkuds/lightrag\nStripe CLI - https://github.com/stripe/stripe-cli\n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:37 - Design Plugins\n5:01 - Productivity Plugins\n11:07 - Data Plugins\n17:20 - Outro\n\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n\n\n#claudecode",
+  "state": "Video title: Use These 17 Claude Plugins, It Will Make You 10x Better.\nChannel: Chase AI\n\nVideo description:\n⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nSkills, CLIs, and Plugins are the easiest way to supercharge your Claude Code experience, but which ones are actually worth it? In this video, I dive into 17 of my favorite.\n\n🔌Plugins\n\nTaste Skill - https://github.com/leonxlnx/taste-skill\nImpeccable - https://github.com/pbakaus/impeccable\nAwesome Design - https://github.com/voltagent/awesome-design-md\nPonytail - https://github.com/DietrichGebert/ponytail\nNotebooklm-py - https://github.com/teng-lin/notebooklm-py\nPlaywright CLI - https://playwright.dev/agent-cli/introduction\nCodex Plugin - https://github.com/openai/codex-plugin-cc\nGWS - https://github.com/googleworkspace/cli#installation\nGitHub CLI - https://cli.github.com/\nSkill Creator - https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md\nLast 30 Days - https://github.com/mvanhorn/last30days-skill\nFirecrawl - https://github.com/firecrawl/firecrawl\nAutoresearch - https://github.com/karpathy/autoresearch\nSupabase CLI - https://github.com/supabase/cli\nObsidian - https://github.com/kepano/obsidian-skills\nLightRAG - https://github.com/hkuds/lightrag\nStripe CLI - https://github.com/stripe/stripe-cli\n\n\n\n\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n\n\n#claudecode",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "Skills, CLIs, and Plugins are the easiest way to supercharge your Claude Code experience",
+    "span": [
+     322,
+     410
+    ],
+    "confidence": 0.303363561630249
+   },
+   "content_last": {
+    "value": "Use These 17 Claude Plugins, It Will Make You 10x Better",
+    "span": [
+     13,
+     69
+    ],
+    "confidence": 0.43162089586257935
+   }
+  },
+  "fallback": false,
+  "output": "Skills, CLIs, and Plugins are the easiest way to supercharge your Claude Code experience, but which ones are actually worth it? In this video, I dive into 17 of my favorite.\n\n🔌Plugins\n\nTaste Skill - https://github.com/leonxlnx/taste-skill\nImpeccable - https://github.com/pbakaus/impeccable\nAwesome Design - https://github.com/voltagent/awesome-design-md\nPonytail - https://github.com/DietrichGebert/ponytail\nNotebooklm-py - https://github.com/teng-lin/notebooklm-py\nPlaywright CLI - https://playwright.dev/agent-cli/introduction\nCodex Plugin - https://github.com/openai/codex-plugin-cc\nGWS - https://github.com/googleworkspace/cli#installation\nGitHub CLI - https://cli.github.com/\nSkill Creator - https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md\nLast 30 Days - https://github.com/mvanhorn/last30days-skill\nFirecrawl - https://github.com/firecrawl/firecrawl\nAutoresearch - https://github.com/karpathy/autoresearch\nSupabase CLI - https://github.com/supabase/cli\nObsidian - https://github.com/kepano/obsidian-skills\nLightRAG - https://github.com/hkuds/lightrag\nStripe CLI - https://github.com/stripe/stripe-cli\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:37 - Design Plugins\n5:01 - Productivity Plugins\n11:07 - Data Plugins\n17:20 - Outro\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n\n#claudecode"
+ },
+ {
+  "id": "ePPGns3I7h8",
+  "title": "Women 50+: This $2 Bag of Nuts Is Better Than Any Hair Loss Supplement | Dr. William Li",
+  "channel": "Health Simplified",
+  "description": "Hair thinning after 50 is often dismissed as a normal part of aging, but what if the real cause is something far more manageable? In this eye-opening presentation inspired by Dr. William Li's science-based approach to nutrition and healthy aging, you'll discover five powerful nuts that support hair follicle health, improve scalp circulation, reduce oxidative stress, and help nourish stronger, fuller hair naturally.\n\nLearn how pistachios, hazelnuts, Brazil nuts, pecans, and walnuts contain unique nutrients that may support healthier hair growth after menopause. You'll also discover the science behind scalp blood flow, hormonal changes, antioxidant protection, and the surprising connection between melatonin and hair follicle activity.\n\nIf you're concerned about thinning hair, shedding, loss of volume, or aging hair after 50, this video provides practical nutritional strategies that may help support healthy hair from the inside out.\n\nWatch until the end to discover the #1 nut that may have the greatest impact on hair follicle health and why its benefits extend far beyond basic nutrition.\n\n⏰ TIMESTAMPS:\n00:00 🔥 Why Hair Loss After 50 Is NOT Inevitable\n01:18 🧬 Landmark Research That Changed Everything\n03:12 💬 Common Hair Concerns Women Over 50 Face\n04:35 🌿 What Happens to Hair Follicles After Menopause\n06:15 ⚠️ The Hidden Causes of Hair Thinning\n07:38 🥜 Why Nuts Are Powerful for Hair Health\n08:12 ⭐ #5 Pistachios – The Keratin Builder\n10:34 ⭐ #4 Hazelnuts – The Folate Hair Growth Booster\n13:08 ⭐ #3 Brazil Nuts – Selenium's Hair Protection Secret\n16:05 ⭐ #2 Pecans – Restore Scalp Blood Flow Naturally\n18:52 👑 #1 Walnuts – The Hair Follicle Wake-Up Nut\n20:28 📋 The 30-Day Hair Restoration Nutrition Protocol\n21:22 ❤️ Final Message for Women Over 50\n\n\n#HairLossAfter50 #HealthyAging #HairGrowthTips #DrWilliamLi #WomenOver50\n\n\nhair loss after 50, hair growth for women, thinning hair after menopause, best foods for hair growth, walnuts for hair, Brazil nuts benefits, pecans hair growth, pistachios benefits, hazelnuts nutrition, natural hair growth, healthy aging, women over 50 health, scalp circulation, hair follicle health, menopause hair loss, thicker hair naturally, anti aging nutrition, Dr William Li, foods for healthy hair, hair restoration diet\n\nTOP 5 YOUTUBE SEARCH PHRASES:\n\nHow to stop hair loss after 50 naturally\n\nBest foods for hair growth in women\n\nHair thinning after menopause solutions\n\nWhat foods help regrow hair naturally\n\nDr William Li hair growth foods\n\n\nDISCLAIMER:\nThis video is for educational and informational purposes only and is not intended to diagnose, treat, cure, or prevent any disease. The information presented is based on publicly available research and should not be considered medical advice. Always consult your physician or qualified healthcare provider before making changes to your diet, supplements, medications, or health routine, especially if you have existing medical conditions or are taking prescription medications. Individual results may vary.",
+  "state": "Video title: Women 50+: This $2 Bag of Nuts Is Better Than Any Hair Loss Supplement | Dr. William Li\nChannel: Health Simplified\n\nVideo description:\nHair thinning after 50 is often dismissed as a normal part of aging, but what if the real cause is something far more manageable? In this eye-opening presentation inspired by Dr. William Li's science-based approach to nutrition and healthy aging, you'll discover five powerful nuts that support hair follicle health, improve scalp circulation, reduce oxidative stress, and help nourish stronger, fuller hair naturally.\n\nLearn how pistachios, hazelnuts, Brazil nuts, pecans, and walnuts contain unique nutrients that may support healthier hair growth after menopause. You'll also discover the science behind scalp blood flow, hormonal changes, antioxidant protection, and the surprising connection between melatonin and hair follicle activity.\n\nIf you're concerned about thinning hair, shedding, loss of volume, or aging hair after 50, this video provides practical nutritional strategies that may help support healthy hair from the inside out.\n\nWatch until the end to discover the #1 nut that may have the greatest impact on hair follicle health and why its benefits extend far beyond basic nutrition.\n\n\n\n#HairLossAfter50 #HealthyAging #HairGrowthTips #DrWilliamLi #WomenOver50\n\n\nhair loss after 50, hair growth for women, thinning hair after menopause, best foods for hair growth, walnuts for hair, Brazil nuts benefits, pecans hair growth, pistachios benefits, hazelnuts nutrition, natural hair growth, healthy aging, women over 50 health, scalp circulation, hair follicle health, menopause hair loss, thicker hair naturally, anti aging nutrition, Dr William Li, foods for healthy hair, hair restoration diet\n\nTOP 5 YOUTUBE SEARCH PHRASES:\n\nHow to stop hair loss after 50 naturally\n\nBest foods for hair growth in women\n\nHair thinning after menopause solutions\n\nWhat foods help regrow hair naturally\n\nDr William Li hair growth foods\n\n\nDISCLAIMER:\nThis video is for educational and informational purposes only and is not intended to diagnose, treat, cure, or prevent any disease. The information presented is based on publicly available research and should not be considered medical advice. Always consult your physician or qualified healthcare provider before making changes to your diet, supplements, medications, or health routine, especially if you have existing medical conditions or are taking prescription medications. Individual results may vary.",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "Hair thinning after 50 is often dismissed as a normal part of aging",
+    "span": [
+     148,
+     215
+    ],
+    "confidence": 0.47715866565704346
+   },
+   "content_last": {
+    "value": "Watch until the end to discover the #1 nut that may have the greatest impact on hair follicle health and why its benefits extend far beyond basic nutrition.",
+    "span": [
+     1093,
+     1249
+    ],
+    "confidence": 0.3520296812057495
+   }
+  },
+  "fallback": false,
+  "output": "Hair thinning after 50 is often dismissed as a normal part of aging, but what if the real cause is something far more manageable? In this eye-opening presentation inspired by Dr. William Li's science-based approach to nutrition and healthy aging, you'll discover five powerful nuts that support hair follicle health, improve scalp circulation, reduce oxidative stress, and help nourish stronger, fuller hair naturally.\n\nLearn how pistachios, hazelnuts, Brazil nuts, pecans, and walnuts contain unique nutrients that may support healthier hair growth after menopause. You'll also discover the science behind scalp blood flow, hormonal changes, antioxidant protection, and the surprising connection between melatonin and hair follicle activity.\n\nIf you're concerned about thinning hair, shedding, loss of volume, or aging hair after 50, this video provides practical nutritional strategies that may help support healthy hair from the inside out.\n\nWatch until the end to discover the #1 nut that may have the greatest impact on hair follicle health and why its benefits extend far beyond basic nutrition.\n⏰ TIMESTAMPS:\n00:00 🔥 Why Hair Loss After 50 Is NOT Inevitable\n01:18 🧬 Landmark Research That Changed Everything\n03:12 💬 Common Hair Concerns Women Over 50 Face\n04:35 🌿 What Happens to Hair Follicles After Menopause\n06:15 ⚠️ The Hidden Causes of Hair Thinning\n07:38 🥜 Why Nuts Are Powerful for Hair Health\n08:12 ⭐ #5 Pistachios – The Keratin Builder\n10:34 ⭐ #4 Hazelnuts – The Folate Hair Growth Booster\n13:08 ⭐ #3 Brazil Nuts – Selenium's Hair Protection Secret\n16:05 ⭐ #2 Pecans – Restore Scalp Blood Flow Naturally\n18:52 👑 #1 Walnuts – The Hair Follicle Wake-Up Nut\n20:28 📋 The 30-Day Hair Restoration Nutrition Protocol\n21:22 ❤️ Final Message for Women Over 50"
+ },
+ {
+  "id": "SSz7HiyQN1M",
+  "title": "Full End-to-End Data Engineering Project in Databricks",
+  "channel": "Alex The Analyst",
+  "description": "In this series we are going to dive into the Data Engineering side of Databricks!\n\nIn this video we are building an end to end ETL pipeline.\n\nGet the Data Here: https://github.com/AlexTheAnalyst/DatabricksSeries/tree/main/Data%20Engineering\n\nTry out Databricks Free: http://signup.databricks.com/?provider=DB_FREE_TIER&utm_source=youtube&utm_medium=video&utm_campaign=AlextheAnalystDE\n____________________________________________ \n\nRESOURCES:\n\n💻Analyst Builder - https://www.analystbuilder.com/\n\n📖Take my Full MySQL Course Here: https://bit.ly/3tqOipr\n📖Take my Full Python Course Here: https://bit.ly/48O581R\n📖Practice Technical Interview Questions: https://bit.ly/46pDqqL\n\nCoursera Courses:\nGoogle Data Analyst Certification: https://coursera.pxf.io/5bBd62\nData Analysis with Python - https://coursera.pxf.io/BXY3Wy\nIBM Data Analysis Specialization - https://coursera.pxf.io/AoYOdR\nTableau Data Visualization - https://coursera.pxf.io/MXYqaN\n\n*Please note I may earn a small commission for any purchase through these links - Thanks for supporting the channel!*\n____________________________________________ \n\nBECOME A MEMBER - \n\nWant to support the channel? Consider becoming a member! I do Monthly Livestreams and you get some awesome Emoji's to use in chat and comments!\n\nhttps://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/join\n____________________________________________ \n\nWebsites: \n💻Website: AlexTheAnalyst.com\n💾GitHub: https://github.com/AlexTheAnalyst\n📱Instagram: @Alex_The_Analyst\n____________________________________________\n\n*All opinions or statements in this video are my own and do not reflect the opinion of the company I work for or have ever worked for*",
+  "state": "Video title: Full End-to-End Data Engineering Project in Databricks\nChannel: Alex The Analyst\n\nVideo description:\nIn this series we are going to dive into the Data Engineering side of Databricks!\n\nIn this video we are building an end to end ETL pipeline.\n\nGet the Data Here: https://github.com/AlexTheAnalyst/DatabricksSeries/tree/main/Data%20Engineering\n\nTry out Databricks Free: http://signup.databricks.com/?provider=DB_FREE_TIER&utm_source=youtube&utm_medium=video&utm_campaign=AlextheAnalystDE\n____________________________________________ \n\nRESOURCES:\n\n💻Analyst Builder - https://www.analystbuilder.com/\n\n📖Take my Full MySQL Course Here: https://bit.ly/3tqOipr\n📖Take my Full Python Course Here: https://bit.ly/48O581R\n📖Practice Technical Interview Questions: https://bit.ly/46pDqqL\n\nCoursera Courses:\nGoogle Data Analyst Certification: https://coursera.pxf.io/5bBd62\nData Analysis with Python - https://coursera.pxf.io/BXY3Wy\nIBM Data Analysis Specialization - https://coursera.pxf.io/AoYOdR\nTableau Data Visualization - https://coursera.pxf.io/MXYqaN\n\n*Please note I may earn a small commission for any purchase through these links - Thanks for supporting the channel!*\n____________________________________________ \n\nBECOME A MEMBER - \n\nWant to support the channel? Consider becoming a member! I do Monthly Livestreams and you get some awesome Emoji's to use in chat and comments!\n\nhttps://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/join\n____________________________________________ \n\nWebsites: \n💻Website: AlexTheAnalyst.com\n💾GitHub: https://github.com/AlexTheAnalyst\n📱Instagram: @Alex_The_Analyst\n____________________________________________\n\n*All opinions or statements in this video are my own and do not reflect the opinion of the company I work for or have ever worked for*",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "In this series we are going to dive into the Data Engineering side of Databricks!",
+    "span": [
+     114,
+     195
+    ],
+    "confidence": 0.44831445813179016
+   },
+   "content_last": {
+    "value": "building an end to end ETL pipeline",
+    "span": [
+     218,
+     253
+    ],
+    "confidence": 0.2660679817199707
+   }
+  },
+  "fallback": false,
+  "output": "In this series we are going to dive into the Data Engineering side of Databricks!\n\nIn this video we are building an end to end ETL pipeline."
+ },
+ {
+  "id": "XKCGF5wxV1I",
+  "title": "512. The #1 Strategy to Improve Your Pronunciation Fast",
+  "channel": "The InFluency Podcast",
+  "description": "If you've been trying to improve your English but still don't feel clear, confident, or fully yourself when you speak, this video is for you!\n \n\nIn this lesson, I'm sharing the number one strategy I use to help students improve their pronunciation, speak more clearly, and feel more confident in English.\n \n\nA lot of people think pronunciation is only important if you want to sound more polished, that pronunciation is a 'luxury' problem. \n \n\nBut the truth is, pronunciation is a core part of fluency. It affects how clearly you communicate, how easily people understand you, and how confident you feel when you speak.\n \n\nIn this episode, we'll talk about:\n \n      \n  •   Why pronunciation matters so much for fluency and confidence \n      \n  •   The difference between sounds and the music of English \n      \n  •   How pronunciation work can improve clarity, credibility, and ease \n      \n  •   My step by step method for improving pronunciation effectively \n      \n  •   How to identify what to practice first so you can get better results faster \n       \n\nIf you're ready to improve your pronunciation, intonation, rhythm, and stress, this will help you build a stronger foundation and start seeing results.\n \n\nWant to go deeper? Join my free Pronunciation Masterclass! https://bit.ly/4cUif4r",
+  "state": "Video title: 512. The #1 Strategy to Improve Your Pronunciation Fast\nChannel: The InFluency Podcast\n\nVideo description:\nIf you've been trying to improve your English but still don't feel clear, confident, or fully yourself when you speak, this video is for you!\n \n\nIn this lesson, I'm sharing the number one strategy I use to help students improve their pronunciation, speak more clearly, and feel more confident in English.\n \n\nA lot of people think pronunciation is only important if you want to sound more polished, that pronunciation is a 'luxury' problem. \n \n\nBut the truth is, pronunciation is a core part of fluency. It affects how clearly you communicate, how easily people understand you, and how confident you feel when you speak.\n \n\nIn this episode, we'll talk about:\n \n      \n  •   Why pronunciation matters so much for fluency and confidence \n      \n  •   The difference between sounds and the music of English \n      \n  •   How pronunciation work can improve clarity, credibility, and ease \n      \n  •   My step by step method for improving pronunciation effectively \n      \n  •   How to identify what to practice first so you can get better results faster \n       \n\nIf you're ready to improve your pronunciation, intonation, rhythm, and stress, this will help you build a stronger foundation and start seeing results.\n \n\nWant to go deeper? Join my free Pronunciation Masterclass! https://bit.ly/4cUif4r",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "In this lesson, I'm sharing the number one strategy I use to help students improve their pronunciation, speak more clearly, and feel more confident in English.",
+    "span": [
+     265,
+     424
+    ],
+    "confidence": 0.21053047478199005
+   },
+   "content_last": {
+    "value": "If you're ready to improve your pronunciation, intonation, rhythm, and stress",
+    "span": [
+     1180,
+     1257
+    ],
+    "confidence": 0.12161321192979813
+   }
+  },
+  "fallback": false,
+  "output": "In this lesson, I'm sharing the number one strategy I use to help students improve their pronunciation, speak more clearly, and feel more confident in English.\n \n\nA lot of people think pronunciation is only important if you want to sound more polished, that pronunciation is a 'luxury' problem. \n \n\nBut the truth is, pronunciation is a core part of fluency. It affects how clearly you communicate, how easily people understand you, and how confident you feel when you speak.\n \n\nIn this episode, we'll talk about:\n \n      \n  •   Why pronunciation matters so much for fluency and confidence \n      \n  •   The difference between sounds and the music of English \n      \n  •   How pronunciation work can improve clarity, credibility, and ease \n      \n  •   My step by step method for improving pronunciation effectively \n      \n  •   How to identify what to practice first so you can get better results faster \n       \n\nIf you're ready to improve your pronunciation, intonation, rhythm, and stress, this will help you build a stronger foundation and start seeing results."
+ },
+ {
+  "id": "28TGfTZweqw",
+  "title": "How To Use Claude Better Than 99% Of People",
+  "channel": "Sandeep Swadia | theMITmonk",
+  "description": "Subscribe to my newsletter → https://www.sandeepswadia.com/newsletter \n\nGenerate Video Ads right in Claude using Higgsfield MCP → https://higgsfield.ai/s/mcp-themitmonk-DjpbCO\n\nGive Claude to two people and you’ll see the gap: one uses it for nicer emails, the other uses it to build a hundred-million-dollar company. \n\nIn this episode, I break down Claude as a full stack of tools—Chat, Projects, Cowork, Code, and the Chrome extension—and how they work together to dramatically upgrade your output. \n\nI show how to move beyond copy-paste prompting by adding rich context, grounding with research, and learning in parallel, then explain how Projects turn one-off chats into an ongoing working relationship. \n\nI also walk through Cowork + MCP connectors (including Higgsfield) to generate real deliverables, and I teach my PRIME prompting framework: Purpose, Research, Interview, Mechanics, Examples.",
+  "state": "Video title: How To Use Claude Better Than 99% Of People\nChannel: Sandeep Swadia | theMITmonk\n\nVideo description:\nSubscribe to my newsletter → https://www.sandeepswadia.com/newsletter \n\nGenerate Video Ads right in Claude using Higgsfield MCP → https://higgsfield.ai/s/mcp-themitmonk-DjpbCO\n\nGive Claude to two people and you’ll see the gap: one uses it for nicer emails, the other uses it to build a hundred-million-dollar company. \n\nIn this episode, I break down Claude as a full stack of tools—Chat, Projects, Cowork, Code, and the Chrome extension—and how they work together to dramatically upgrade your output. \n\nI show how to move beyond copy-paste prompting by adding rich context, grounding with research, and learning in parallel, then explain how Projects turn one-off chats into an ongoing working relationship. \n\nI also walk through Cowork + MCP connectors (including Higgsfield) to generate real deliverables, and I teach my PRIME prompting framework: Purpose, Research, Interview, Mechanics, Examples.",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "Give Claude to two people and you’ll see the gap: one uses it for nicer emails, the other uses it to build a hundred-million-dollar company",
+    "span": [
+     291,
+     430
+    ],
+    "confidence": 0.2492702752351761
+   },
+   "content_last": {
+    "value": "Purpose, Research, Interview, Mechanics, Examples.",
+    "span": [
+     964,
+     1014
+    ],
+    "confidence": 0.1472865641117096
+   }
+  },
+  "fallback": false,
+  "output": "Give Claude to two people and you’ll see the gap: one uses it for nicer emails, the other uses it to build a hundred-million-dollar company. \n\nIn this episode, I break down Claude as a full stack of tools—Chat, Projects, Cowork, Code, and the Chrome extension—and how they work together to dramatically upgrade your output. \n\nI show how to move beyond copy-paste prompting by adding rich context, grounding with research, and learning in parallel, then explain how Projects turn one-off chats into an ongoing working relationship. \n\nI also walk through Cowork + MCP connectors (including Higgsfield) to generate real deliverables, and I teach my PRIME prompting framework: Purpose, Research, Interview, Mechanics, Examples."
+ },
+ {
+  "id": "7iic3Zj427M",
+  "title": "DAY 1 Livestream - 5-Day AI Agents: Intensive Vibe Coding Course With Google",
+  "channel": "Kaggle",
+  "description": "Read the DeepMind paper on AlphaEvolve: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\n\nLearn about Long Running agents in this episode of Google cloud’s agent factory: https://www.youtube.com/watch?v=VGpfnbr7rso\n\nStart building stateful AI agents with the Agent Development Kit (ADK):https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/?utm_campaign=CDR_0xf9030db1_default_b524246263&utm_medium=external&utm_source=youtube\n\nCheck out the open-source Google Skills project on GitHub: https://github.com/google/skills\n\nRead the guide on accelerating your TensorFlow to JAX migration:https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax?utm_campaign=CDR_0xf9030db1_default_b524246263&utm_medium=external&utm_source=youtube\n\nAll the info about the course will be shared here: https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/discussion?sort=hotness \n\nDay 1: Introduction to Agents\nComplete the Unit 1 – “Introduction to Agents”:\n\n1. Listen to the summary podcast episode for this unit – https://youtu.be/cbzmr7vt4XA \n2. To complement the podcast, read the “The New SDLC With Vibe Coding ” whitepaper: https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding \n3. Complete these codelabs on Kaggle:\n - Build your first agent using Gemini and Agent Development Kit (ADK) – https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action \n - Build your first multi-agent systems using ADK – https://www.kaggle.com/code/kaggle5daysofai/day-1b-agent-architectures \n - We also have a troubleshooting guide for the codelabs. Be sure to check there for solutions to common problems – https://www.kaggle.com/code/kaggle5daysofai/day-0-troubleshooting-and-faqs \n\n🎮 Join us and other participants on Kaggle’s Discord server: http://discord.gg/kaggle",
+  "state": "Video title: DAY 1 Livestream - 5-Day AI Agents: Intensive Vibe Coding Course With Google\nChannel: Kaggle\n\nVideo description:\nRead the DeepMind paper on AlphaEvolve: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\n\nLearn about Long Running agents in this episode of Google cloud’s agent factory: https://www.youtube.com/watch?v=VGpfnbr7rso\n\nStart building stateful AI agents with the Agent Development Kit (ADK):https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/?utm_campaign=CDR_0xf9030db1_default_b524246263&utm_medium=external&utm_source=youtube\n\nCheck out the open-source Google Skills project on GitHub: https://github.com/google/skills\n\nRead the guide on accelerating your TensorFlow to JAX migration:https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax?utm_campaign=CDR_0xf9030db1_default_b524246263&utm_medium=external&utm_source=youtube\n\nAll the info about the course will be shared here: https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/discussion?sort=hotness \n\nDay 1: Introduction to Agents\nComplete the Unit 1 – “Introduction to Agents”:\n\n1. Listen to the summary podcast episode for this unit – https://youtu.be/cbzmr7vt4XA \n2. To complement the podcast, read the “The New SDLC With Vibe Coding ” whitepaper: https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding \n3. Complete these codelabs on Kaggle:\n - Build your first agent using Gemini and Agent Development Kit (ADK) – https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action \n - Build your first multi-agent systems using ADK – https://www.kaggle.com/code/kaggle5daysofai/day-1b-agent-architectures \n - We also have a troubleshooting guide for the codelabs. Be sure to check there for solutions to common problems – https://www.kaggle.com/code/kaggle5daysofai/day-0-troubleshooting-and-faqs \n\n🎮 Join us and other participants on Kaggle’s Discord server: http://discord.gg/kaggle",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "DAY 1 Livestream - 5-Day AI Agents: Intensive Vibe Coding Course",
+    "span": [
+     13,
+     77
+    ],
+    "confidence": 0.3032548725605011
+   },
+   "content_last": {
+    "value": "Day 1: Introduction to Agents",
+    "span": [
+     1189,
+     1218
+    ],
+    "confidence": 0.3844817280769348
+   }
+  },
+  "fallback": false,
+  "output": "Read the DeepMind paper on AlphaEvolve: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\n\nLearn about Long Running agents in this episode of Google cloud’s agent factory: https://www.youtube.com/watch?v=VGpfnbr7rso\n\nStart building stateful AI agents with the Agent Development Kit (ADK):https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/?utm_campaign=CDR_0xf9030db1_default_b524246263&utm_medium=external&utm_source=youtube\n\nCheck out the open-source Google Skills project on GitHub: https://github.com/google/skills\n\nRead the guide on accelerating your TensorFlow to JAX migration:https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax?utm_campaign=CDR_0xf9030db1_default_b524246263&utm_medium=external&utm_source=youtube\n\nAll the info about the course will be shared here: https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/discussion?sort=hotness \n\nDay 1: Introduction to Agents"
+ },
+ {
+  "id": "P7-nshMUJms",
+  "title": "Harvard Thinking: The secret lives of super-agers",
+  "channel": "Harvard University",
+  "description": "It’s common for our brains and bodies to atrophy with age. But some adults, those known as super-agers, have shown that we may be able to keep the sharpness of someone decades younger, even matching the cognitive abilities of a person in their 20s. In this episode, host Samantha Laine Perfas talks with biologist Will Mair, neurologist Alexandra Touroutoglou, and geriatric doctor Suzanne Salamon about what we've learned about super-agers and the secrets that may help us all extend and enrich our later years.",
+  "state": "Video title: Harvard Thinking: The secret lives of super-agers\nChannel: Harvard University\n\nVideo description:\nIt’s common for our brains and bodies to atrophy with age. But some adults, those known as super-agers, have shown that we may be able to keep the sharpness of someone decades younger, even matching the cognitive abilities of a person in their 20s. In this episode, host Samantha Laine Perfas talks with biologist Will Mair, neurologist Alexandra Touroutoglou, and geriatric doctor Suzanne Salamon about what we've learned about super-agers and the secrets that may help us all extend and enrich our later years.",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "It’s common for our brains and bodies to atrophy with age",
+    "span": [
+     111,
+     168
+    ],
+    "confidence": 0.3889791667461395
+   },
+   "content_last": {
+    "value": "what we've learned about super-agers and the secrets that may help us all extend and enrich our later years",
+    "span": [
+     515,
+     622
+    ],
+    "confidence": 0.2176954299211502
+   }
+  },
+  "fallback": false,
+  "output": "It’s common for our brains and bodies to atrophy with age. But some adults, those known as super-agers, have shown that we may be able to keep the sharpness of someone decades younger, even matching the cognitive abilities of a person in their 20s. In this episode, host Samantha Laine Perfas talks with biologist Will Mair, neurologist Alexandra Touroutoglou, and geriatric doctor Suzanne Salamon about what we've learned about super-agers and the secrets that may help us all extend and enrich our later years."
+ },
+ {
+  "id": "ff3j4olCUig",
+  "title": "Build Your Own App In Just 30 Minutes! Full Course with Andrew Ng",
+  "channel": "DeepLearningAI",
+  "description": "Earn your certificate here: https://bit.ly/4ejb47H\n\nIf you’ve never written code before, this course is for you. In less than 30 minutes, you’ll learn to describe an idea in words and let AI transform it into an app for you.\n\nYou’ll build a working web application in minutes: A funny interactive birthday message generator that runs in your browser and can be shared with friends. Then you’ll customize it by telling AI how you want it changed, tweaking it until it works exactly how you want. You’ll learn about best practices for building with AI, such as how to improve your app step-by-step and fix problems when they come up.\n\nIn this course, you’ll learn to:\n\n- Build web applications through prompting: Build interactive tools by describing what you want and collaborating with AI to create working applications—no coding experience required.\n- Customize and troubleshoot AI-generated apps: Customize features like input fields, buttons, and color schemes through hands-on collaboration with AI, learning to troubleshoot and improve as you go.\n- Learn a repeatable framework you can apply to any app idea by practicing with different examples—from fun projects like a ping pong game to practical tools like time-off request forms.\n\nThis course assumes no prior knowledge of AI or coding. You’ll build a birthday card app, customize it with additional features, then use the same framework to build a table tennis game. By the end, you’ll be an AI builder with a framework for building any application you can imagine.\n\nIf you’re already comfortable with AI or coding, you may recognize how powerful this shift is. And you might know people who don’t yet realize they can build things themselves, like your friends, parents, coworkers, or roommates who have ideas but think “building apps is too hard.”\n\nThis course is for them. Feel free to share it!",
+  "state": "Video title: Build Your Own App In Just 30 Minutes! Full Course with Andrew Ng\nChannel: DeepLearningAI\n\nVideo description:\nEarn your certificate here: https://bit.ly/4ejb47H\n\nIf you’ve never written code before, this course is for you. In less than 30 minutes, you’ll learn to describe an idea in words and let AI transform it into an app for you.\n\nYou’ll build a working web application in minutes: A funny interactive birthday message generator that runs in your browser and can be shared with friends. Then you’ll customize it by telling AI how you want it changed, tweaking it until it works exactly how you want. You’ll learn about best practices for building with AI, such as how to improve your app step-by-step and fix problems when they come up.\n\nIn this course, you’ll learn to:\n\n- Build web applications through prompting: Build interactive tools by describing what you want and collaborating with AI to create working applications—no coding experience required.\n- Customize and troubleshoot AI-generated apps: Customize features like input fields, buttons, and color schemes through hands-on collaboration with AI, learning to troubleshoot and improve as you go.\n- Learn a repeatable framework you can apply to any app idea by practicing with different examples—from fun projects like a ping pong game to practical tools like time-off request forms.\n\nThis course assumes no prior knowledge of AI or coding. You’ll build a birthday card app, customize it with additional features, then use the same framework to build a table tennis game. By the end, you’ll be an AI builder with a framework for building any application you can imagine.\n\nIf you’re already comfortable with AI or coding, you may recognize how powerful this shift is. And you might know people who don’t yet realize they can build things themselves, like your friends, parents, coworkers, or roommates who have ideas but think “building apps is too hard.”\n\nThis course is for them. Feel free to share it!",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "In less than 30 minutes, you’ll learn to describe an idea in words and let AI transform it into an app for you",
+    "span": [
+     236,
+     346
+    ],
+    "confidence": 0.1499805599451065
+   },
+   "content_last": {
+    "value": "Full Course with Andrew Ng",
+    "span": [
+     52,
+     78
+    ],
+    "confidence": 0.2368001937866211
+   }
+  },
+  "fallback": false,
+  "output": "If you’ve never written code before, this course is for you. In less than 30 minutes, you’ll learn to describe an idea in words and let AI transform it into an app for you.\n\nYou’ll build a working web application in minutes: A funny interactive birthday message generator that runs in your browser and can be shared with friends. Then you’ll customize it by telling AI how you want it changed, tweaking it until it works exactly how you want. You’ll learn about best practices for building with AI, such as how to improve your app step-by-step and fix problems when they come up.\n\nIn this course, you’ll learn to:\n\n- Build web applications through prompting: Build interactive tools by describing what you want and collaborating with AI to create working applications—no coding experience required.\n- Customize and troubleshoot AI-generated apps: Customize features like input fields, buttons, and color schemes through hands-on collaboration with AI, learning to troubleshoot and improve as you go.\n- Learn a repeatable framework you can apply to any app idea by practicing with different examples—from fun projects like a ping pong game to practical tools like time-off request forms.\n\nThis course assumes no prior knowledge of AI or coding. You’ll build a birthday card app, customize it with additional features, then use the same framework to build a table tennis game. By the end, you’ll be an AI builder with a framework for building any application you can imagine.\n\nIf you’re already comfortable with AI or coding, you may recognize how powerful this shift is. And you might know people who don’t yet realize they can build things themselves, like your friends, parents, coworkers, or roommates who have ideas but think “building apps is too hard.”\n\nThis course is for them. Feel free to share it!"
+ },
+ {
+  "id": "V7EgIMWOqgw",
+  "title": "Your Certs Are Expiring: Digital Certificate Management Explained",
+  "channel": "IBM Technology",
+  "description": "Learn more about Digital Certificate Management here → https://ibm.biz/~r0ryWgN3x\n\nExpired certificates can shut down websites, APIs, and entire enterprises. Jeff Crume explains what digital certificates are, why shorter lifetimes increase risk, and how certificate lifecycle management is becoming a critical cybersecurity discipline.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/~PZWhGzC4j\n\n#cybersecurity #pki #digitalcertificates",
+  "state": "Video title: Your Certs Are Expiring: Digital Certificate Management Explained\nChannel: IBM Technology\n\nVideo description:\nLearn more about Digital Certificate Management here → https://ibm.biz/~r0ryWgN3x\n\nExpired certificates can shut down websites, APIs, and entire enterprises. Jeff Crume explains what digital certificates are, why shorter lifetimes increase risk, and how certificate lifecycle management is becoming a critical cybersecurity discipline.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/~PZWhGzC4j\n\n#cybersecurity #pki #digitalcertificates",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "Expired certificates can shut down websites, APIs, and entire enterprises",
+    "span": [
+     206,
+     279
+    ],
+    "confidence": 0.6448577642440796
+   },
+   "content_last": {
+    "value": "Jeff Crume explains what digital certificates are, why shorter lifetimes increase risk, and how certificate lifecycle management is becoming a critical cybersecurity discipline.",
+    "span": [
+     281,
+     458
+    ],
+    "confidence": 0.46656161546707153
+   }
+  },
+  "fallback": false,
+  "output": "Expired certificates can shut down websites, APIs, and entire enterprises. Jeff Crume explains what digital certificates are, why shorter lifetimes increase risk, and how certificate lifecycle management is becoming a critical cybersecurity discipline."
+ },
+ {
+  "id": "6YnLB0XbTnI",
+  "title": "Stanford CS329A Self-Improving AI Agents | Part 1 | Course Overview",
+  "channel": "Stanford Online",
+  "description": "Want to dive deeper? This curriculum is covered in the following online courses:\n- XCS329 graduate course: https://online.stanford.edu/courses/cs329a-self-improving-ai-agents\n- Agentic AI professional education program: https://learn.stanford.edu/agentic-ai-2026.html\n\nFollow along with the course schedule and syllabus: https://cs329a.stanford.edu/\n\nView the course playlist: https://www.youtube.com/playlist?list=PLangBM27OtEA\n\nVideo Summary:\nThis first lecture videoof Stanford's CS329A, Self-Improving AI Agents, taught by Aakanksha Chowdhery and Azalia Mirhoseini on September 22, 2025, opens with an overview of scaling laws that link model parameters, training compute, and dataset size to lower test loss in large language models from GPT-2 through GPT-4. It covers few-shot and zero-shot learning, the emergence of chain-of-thought reasoning in larger models, and the role of instruction tuning and reinforcement learning from human feedback in the development of ChatGPT. The lecture introduces inference-time scaling through the Large Language Monkeys project, which repeatedly samples a model's outputs and selects correct answers with a verifier to improve performance without retraining. It then traces the shift from single-turn chatbots to agent workflows such as prompt chaining, routing, parallelization, and orchestrator-worker patterns, using Claude Code and deep research tools as examples. The session closes with logistics for the course.\n\nSpeaker Bios:\nAakanksha Chowdhery\nAdjunct Professor of Computer Science, Stanford University\n\nDr. Aakanksha Chowdhery is pushing the frontier of agentic LLMs, focusing on recursive self-improvement and long-horizon agents that learn and deploy in the real world. She is one of the few researchers globally who has led frontier model training end-to-end, across both dense and mixture-of-experts (MoE) architectures. At Google, she led the 540B PaLM model, the largest densely trained language model in the world at the time. She subsequently drove pre-training and scaling of Gemini's MoE models across multiple generations, and contributed key components to PaLM-E, Med-PaLM, and the Pathways infrastructure underpinning Google's large-model efforts. She went on to build and lead pretraining teams for open intelligence efforts at Reflection and Meta. Earlier, she held research roles at Microsoft Research and Princeton. At Stanford, where she earned her PhD, she teaches CS329A (Self-Improving AI Agents) and serves as Program Chair for MLSys 2026.\n\nAzalia Mirhoseini\nAssistant Professor of Computer Science, Stanford University\n\nAzalia Mirhoseini is a co-founder of Ricursive Intelligence, a frontier lab dedicated to recursive self-improvement through AI that designs the chips that fuel it. She is also an Assistant Professor of Computer Science at Stanford University where she directs Scaling Intelligence, a lab focused on developing scalable and self-improving AI systems and methodologies toward the goal of artificial general intelligence. Previously, she spent several years in industry AI labs, including Google Brain, Anthropic, and Google DeepMind, working on the development of Claude and Gemini. Her past work includes Mixture-of-Experts (MoE) neural architectures, now predominantly used in leading generative AI models; AlphaChip, a pioneering work on deep reinforcement learning for layout optimization used in the design of advanced chips like Google AI accelerators (TPUs) and data center CPUs; as well as pioneering research on LLM Test-Time Scaling. Her work has been recognized through the Okawa Research Grant, the Google ML and Systems Junior Faculty Award, MIT Technology Review's 35 Under 35 Award, the Best ECE Thesis Award at Rice University, publications in flagship venues such as Nature, and coverage by various media outlets, including WSJ, NYT, Forbes, MIT Technology Review, IEEE Spectrum, WIRED, and TechCrunch.",
+  "state": "Video title: Stanford CS329A Self-Improving AI Agents | Part 1 | Course Overview\nChannel: Stanford Online\n\nVideo description:\nWant to dive deeper? This curriculum is covered in the following online courses:\n- XCS329 graduate course: https://online.stanford.edu/courses/cs329a-self-improving-ai-agents\n- Agentic AI professional education program: https://learn.stanford.edu/agentic-ai-2026.html\n\nFollow along with the course schedule and syllabus: https://cs329a.stanford.edu/\n\nView the course playlist: https://www.youtube.com/playlist?list=PLangBM27OtEA\n\nVideo Summary:\nThis first lecture videoof Stanford's CS329A, Self-Improving AI Agents, taught by Aakanksha Chowdhery and Azalia Mirhoseini on September 22, 2025, opens with an overview of scaling laws that link model parameters, training compute, and dataset size to lower test loss in large language models from GPT-2 through GPT-4. It covers few-shot and zero-shot learning, the emergence of chain-of-thought reasoning in larger models, and the role of instruction tuning and reinforcement learning from human feedback in the development of ChatGPT. The lecture introduces inference-time scaling through the Large Language Monkeys project, which repeatedly samples a model's outputs and selects correct answers with a verifier to improve performance without retraining. It then traces the shift from single-turn chatbots to agent workflows such as prompt chaining, routing, parallelization, and orchestrator-worker patterns, using Claude Code and deep research tools as examples. The session closes with logistics for the course.\n\nSpeaker Bios:\nAakanksha Chowdhery\nAdjunct Professor of Computer Science, Stanford University\n\nDr. Aakanksha Chowdhery is pushing the frontier of agentic LLMs, focusing on recursive self-improvement and long-horizon agents that learn and deploy in the real world. She is one of the few researchers globally who has led frontier model training end-to-end, across both dense and mixture-of-experts (MoE) architectures. At Google, she led the 540B PaLM model, the largest densely trained language model in the world at the time. She subsequently drove pre-training and scaling of Gemini's MoE models across multiple generations, and contributed key components to PaLM-E, Med-PaLM, and the Pathways infrastructure underpinning Google's large-model efforts. She went on to build and lead pretraining teams for open intelligence efforts at Reflection and Meta. Earlier, she held research roles at Microsoft Research and Princeton. At Stanford, where she earned her PhD, she teaches CS329A (Self-Improving AI Agents) and serves as Program Chair for MLSys 2026.\n\nAzalia Mirhoseini\nAssistant Professor of Computer Science, Stanford University\n\nAzalia Mirhoseini is a co-founder of Ricursive Intelligence, a frontier lab dedicated to recursive self-improvement through AI that designs the chips that fuel it. She is also an Assistant Professor of Computer Science at Stanford University where she directs Scaling Intelligence, a lab focused on developing scalable and self-improving AI systems and methodologies toward the goal of artificial general intelligence. Previously, she spent several years in industry AI labs, including Google Brain, Anthropic, and Google DeepMind, working on the development of Claude and Gemini. Her past work includes Mixture-of-Experts (MoE) neural architectures, now predominantly used in leading generative AI models; AlphaChip, a pioneering work on deep reinforcement learning for layout optimization used in the design of advanced chips like Google AI accelerators (TPUs) and data center CPUs; as well as pioneering research on LLM Test-Time Scaling. Her work has been recognized through the Okawa Research Grant, the Google ML and Systems Junior Faculty Award, MIT Technology Review's 35 Under 35 Award, the Best ECE Thesis Award at Rice University, publications in flagship venues such as Nature, and coverage by various media outlets, including WSJ, NYT, Forbes, MIT Technology Review, IEEE Spectrum, WIRED, and TechCrunch.",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "Video Summary",
+    "span": [
+     556,
+     569
+    ],
+    "confidence": 0.6537162661552429
+   },
+   "content_last": {
+    "value": "The session closes with logistics for the course.",
+    "span": [
+     1538,
+     1587
+    ],
+    "confidence": 0.4219468832015991
+   }
+  },
+  "fallback": false,
+  "output": "Video Summary:\nThis first lecture videoof Stanford's CS329A, Self-Improving AI Agents, taught by Aakanksha Chowdhery and Azalia Mirhoseini on September 22, 2025, opens with an overview of scaling laws that link model parameters, training compute, and dataset size to lower test loss in large language models from GPT-2 through GPT-4. It covers few-shot and zero-shot learning, the emergence of chain-of-thought reasoning in larger models, and the role of instruction tuning and reinforcement learning from human feedback in the development of ChatGPT. The lecture introduces inference-time scaling through the Large Language Monkeys project, which repeatedly samples a model's outputs and selects correct answers with a verifier to improve performance without retraining. It then traces the shift from single-turn chatbots to agent workflows such as prompt chaining, routing, parallelization, and orchestrator-worker patterns, using Claude Code and deep research tools as examples. The session closes with logistics for the course."
+ },
+ {
+  "id": "ncXzJtlGHHc",
+  "title": "AI Tool Tier List",
+  "channel": "AI Edge",
+  "description": "Sign up for the AI Edge newsletter and join the Instagram community for tools, prompts, and workflows.\n👉 https://www.aiedgehq.co/\n---------------------------------\n\nFrom Claude, ChatGPT, and Gemini to DeepSeek, Perplexity, Manus, and Higgsfield, here is the definitive look at which AI tools are actually worth your time in 2026, and which ones are losing their edge.\n\nI’ll share the most underrated apps on my radar, the exact tools I use daily to run my business, and the definitive best models for coding, research, automation, video, and advanced workflows.\n\nPlus, I’m settling the Claude vs. ChatGPT debate once and for all.\n\n#ai #aitools #artificialintelligence #tierlist #chatgpt #tech #anthropic",
+  "state": "Video title: AI Tool Tier List\nChannel: AI Edge\n\nVideo description:\nSign up for the AI Edge newsletter and join the Instagram community for tools, prompts, and workflows.\n👉 https://www.aiedgehq.co/\n---------------------------------\n\nFrom Claude, ChatGPT, and Gemini to DeepSeek, Perplexity, Manus, and Higgsfield, here is the definitive look at which AI tools are actually worth your time in 2026, and which ones are losing their edge.\n\nI’ll share the most underrated apps on my radar, the exact tools I use daily to run my business, and the definitive best models for coding, research, automation, video, and advanced workflows.\n\nPlus, I’m settling the Claude vs. ChatGPT debate once and for all.\n\n#ai #aitools #artificialintelligence #tierlist #chatgpt #tech #anthropic",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "From Claude, ChatGPT, and Gemini to DeepSeek, Perplexity, Manus, and Higgsfield, here is the definitive look at which AI tools are actually worth your time in 2026, and which ones are losing their edge",
+    "span": [
+     233,
+     434
+    ],
+    "confidence": 0.28313350677490234
+   },
+   "content_last": {
+    "value": "I’m settling the Claude vs. ChatGPT debate once and for all.",
+    "span": [
+     637,
+     697
+    ],
+    "confidence": 0.20746290683746338
+   }
+  },
+  "fallback": false,
+  "output": "From Claude, ChatGPT, and Gemini to DeepSeek, Perplexity, Manus, and Higgsfield, here is the definitive look at which AI tools are actually worth your time in 2026, and which ones are losing their edge.\n\nI’ll share the most underrated apps on my radar, the exact tools I use daily to run my business, and the definitive best models for coding, research, automation, video, and advanced workflows.\n\nPlus, I’m settling the Claude vs. ChatGPT debate once and for all."
+ },
+ {
+  "id": "S0mbgU239ao",
+  "title": "Improve Your Communication Skills with This! | John Maxwell",
+  "channel": "Maxwell Leadership",
+  "description": "➡️ Maximize your leadership potential and influence with the Maxwell Leadership Certification Program (MLCT). Elevate your life, your organization, and those you lead.\nStart a conversation today: https://hubs.li/Q0251xrf0 ⬅️\n\n➡️ CONNECT WITH US ON SOCIAL MEDIA Stay engaged with our leadership community and get daily inspiration, updates, and exclusive content.\n\nFacebook: https://www.facebook.com/MaxwellLeadership/\nTwitter: https://twitter.com/maxwell_leaders\nInstagram: https://www.instagram.com/maxwellleadership/\nLinkedIn: https://www.linkedin.com/company/maxwellleadership/\nTikTok: https://www.tiktok.com/@thejohncmaxwell\n\n➡️ SUBSCRIBE TO MINUTE WITH MAXWELL Stay inspired and continue to grow as a leader. Join our newsletter to receive actionable leadership insights, tips, and more: https://hubs.ly/Q01Rlwyy0\n\n➡️ JOIN THE MAXWELL LEADERSHIP YOUTUBE FAMILY Enjoyed our content? Hit the 'Subscribe' button and ring the notification bell to stay updated with our latest videos.\n\nABOUT MAXWELL LEADERSHIP\nWe are committed to developing leaders who lead through positive influence. The Maxwell Leadership Certified Team members are impacting industries worldwide! Our program is designed to bridge the gap between where you are and where you want to be. Let's start the conversation today and see if the Maxwell Leadership Certified Team is right for you.\n\n🔔 Don't forget to subscribe and press the bell icon to get notifications for our new videos.\nWe look forward to journeying with you towards greater influence, impact, and success. Join us, and let's make a difference together!",
+  "state": "Video title: Improve Your Communication Skills with This! | John Maxwell\nChannel: Maxwell Leadership\n\nVideo description:\n➡️ Maximize your leadership potential and influence with the Maxwell Leadership Certification Program (MLCT). Elevate your life, your organization, and those you lead.\nStart a conversation today: https://hubs.li/Q0251xrf0 ⬅️\n\n➡️ CONNECT WITH US ON SOCIAL MEDIA Stay engaged with our leadership community and get daily inspiration, updates, and exclusive content.\n\nFacebook: https://www.facebook.com/MaxwellLeadership/\nTwitter: https://twitter.com/maxwell_leaders\nInstagram: https://www.instagram.com/maxwellleadership/\nLinkedIn: https://www.linkedin.com/company/maxwellleadership/\nTikTok: https://www.tiktok.com/@thejohncmaxwell\n\n➡️ SUBSCRIBE TO MINUTE WITH MAXWELL Stay inspired and continue to grow as a leader. Join our newsletter to receive actionable leadership insights, tips, and more: https://hubs.ly/Q01Rlwyy0\n\n➡️ JOIN THE MAXWELL LEADERSHIP YOUTUBE FAMILY Enjoyed our content? Hit the 'Subscribe' button and ring the notification bell to stay updated with our latest videos.\n\nABOUT MAXWELL LEADERSHIP\nWe are committed to developing leaders who lead through positive influence. The Maxwell Leadership Certified Team members are impacting industries worldwide! Our program is designed to bridge the gap between where you are and where you want to be. Let's start the conversation today and see if the Maxwell Leadership Certified Team is right for you.\n\n🔔 Don't forget to subscribe and press the bell icon to get notifications for our new videos.\nWe look forward to journeying with you towards greater influence, impact, and success. Join us, and let's make a difference together!",
+  "fields": {
+   "content_first": {
+    "type": "text",
+    "instructions": "The first sentence or line of the description that is about THIS video, skipping any boilerplate before it. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   },
+   "content_last": {
+    "type": "text",
+    "instructions": "The last sentence or line of the description that is about THIS video, before any trailing boilerplate. The part of the description that tells what THIS video (see the title) is about: its topic, what it covers, who appears in it, and resources that belong to this video only, such as its dataset, code, paper, syllabus or assignments. Boilerplate is text the channel repeats under every video and that says nothing about this video: sponsor and affiliate links, discount codes, the creator's other courses, products or videos, newsletters, memberships, Patreon or donation requests, merch, social media and community links (Discord, Instagram, X), 'like and subscribe' requests, channel or creator bios, disclaimers, hashtags and keyword lists."
+   }
+  },
+  "answers": {
+   "content_first": {
+    "value": "Maximize your leadership potential and influence with the Maxwell Leadership Certification Program (MLCT)",
+    "span": [
+     124,
+     229
+    ],
+    "confidence": 0.7374855875968933
+   },
+   "content_last": {
+    "value": "Maximize your leadership potential and influence with the Maxwell Leadership Certification Program (MLCT)",
+    "span": [
+     124,
+     229
+    ],
+    "confidence": 0.42245861887931824
+   }
+  },
+  "fallback": false,
+  "output": "➡️ Maximize your leadership potential and influence with the Maxwell Leadership Certification Program (MLCT). Elevate your life, your organization, and those you lead."
+ }
+]

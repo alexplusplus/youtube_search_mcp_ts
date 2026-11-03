@@ -4,7 +4,7 @@ A remote MCP server with two tools, deployable to both Cloud Run and Cloudflare 
 
 ## Gate before calling work done
 
-`npm run check` runs `biome check`, `tsc` and `vitest run`, and all three must be clean. When you touch `src/worker.ts`, `src/server.ts` or dependencies, also run `npx wrangler deploy --dry-run` to prove the Worker still bundles.
+`npm run check` runs `biome check`, `tsc` and `vitest run`, and all three must be clean. When you touch `src/worker.ts`, `src/server.ts` or dependencies, also run `npx wrangler deploy --dry-run --env=""` and `--env clean` to prove the Worker still bundles in both modes.
 
 ## Quota is the scarce resource
 
@@ -34,6 +34,7 @@ Most examples online are v1 (`@modelcontextprotocol/sdk`). In this repo:
 ## Design rules
 
 - `overlap.ts` stays pure, with no I/O. `youtube.ts` owns everything about the wire: params, retry, timeouts, error classification and parsing. `tools.ts` holds the `search()` and `videoData()` tool bodies, which tests call directly without the MCP layer. `server.ts` is glue.
+- `description.ts` cleans descriptions for both tools; its only I/O is the injected `Extractor` (Workers AI's Clairic, wired in `worker.ts` only when the `AI` binding exists, which only the `clean` wrangler environment adds: off by default; Cloud Run passes none). It must never fail a tool call: any error returns the original description. Clairic spans count Unicode code points, not UTF-16 units.
 - Tools return one text block holding the videos as JSON, with no `outputSchema` or `structuredContent`. The Python server had both (inferred from its return type); they were dropped on purpose because the model reads the text either way, and `tests/server.test.ts` asserts their absence.
 - **Error classification reads both reasons:** `error.errors[0].reason` and the ErrorInfo `error.details[].reason`. Real invalid-key responses carry the generic `badRequest` beside `API_KEY_INVALID` (see `invalid key is a key problem despite generic errors reason`).
 - Retryable means exactly "classifies as unavailable": one retry, never on quota.

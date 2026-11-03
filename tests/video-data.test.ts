@@ -1,4 +1,5 @@
 import { beforeEach, expect, test, vi } from "vitest";
+import type { Fields } from "../src/description.ts";
 import { ToolError, videoData } from "../src/tools.ts";
 import { videoFromResource, YouTubeClient } from "../src/youtube.ts";
 import { RECORDED as WORLD } from "./fake-youtube.ts";
@@ -49,3 +50,35 @@ test.each([[[]], [[A, "not a video"]]])(
     expect(requests).toEqual([]);
   },
 );
+
+test("descriptions are cleaned the same way as in search", async () => {
+  // Anchors on the description's first character: only its first line is kept.
+  const extract = vi.fn(async (state: string, fields: Fields) => {
+    const header = "Video description:\n";
+    const at = Array.from(state.slice(0, state.indexOf(header) + header.length)).length;
+    const anchor = { value: "x", span: [at, at + 1] as [number, number] };
+    return Object.fromEntries(Object.keys(fields).map((field) => [field, anchor]));
+  });
+  // A multi-line description without chapter lines, which cleaning would keep.
+  const id = Object.keys(RECORDED).find((key) => {
+    const text: string = RECORDED[key].snippet.description ?? "";
+    return text.trim().includes("\n") && !/^\s*[([]?\d{1,2}:\d{2}/m.test(text);
+  }) as string;
+  const original = videoFromResource(RECORDED[id]);
+  expect(original.description?.trim()).toContain("\n"); // multi-line, so cleaning shows
+
+  const [video] = await videoData([id], client([]), { extract });
+
+  expect(extract).toHaveBeenCalledOnce();
+  expect(video).toEqual({ ...original, description: original.description?.split("\n")[0].trim() });
+});
+
+test("a failing extractor returns the original description", async () => {
+  const extract = async () => {
+    throw new Error("AI down");
+  };
+
+  expect(await videoData([A, B], client([]), { extract })).toEqual(
+    await videoData([A, B], client([])),
+  );
+});

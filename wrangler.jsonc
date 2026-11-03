@@ -3,6 +3,18 @@
   "name": "youtube-search-mcp",
   "main": "src/worker.ts",
   "compatibility_date": "2026-10-01",
-  "observability": { "enabled": true }
+  "observability": { "enabled": true },
   // YOUTUBE_API_KEY is a secret: `npx wrangler secret put YOUTUBE_API_KEY`, and `.dev.vars` locally.
+
+  // Description cleaning is off by default: without the AI binding, worker.ts passes no extractor.
+  // `wrangler deploy --env clean` (npm run deploy:worker:clean) turns it on.
+  "env": {
+    "clean": {
+      // Same name, so the same Worker, URL and secret; only the binding differs.
+      "name": "youtube-search-mcp",
+      // Workers AI, for Clairic. Bindings aren't inherited, so the default deploy has none.
+      // `wrangler dev --env clean` calls it remotely: real, tiny cost.
+      "ai": { "binding": "AI" }
+    }
+  }
 }

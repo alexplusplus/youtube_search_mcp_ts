@@ -1,5 +1,6 @@
 /** The search_youtube and get_video_data tool bodies, which tests call directly without MCP. */
 
+import { cleanDescription, type Extractor } from "./description.ts";
 import { needsFallback, normalise, overlap, type SearchItem } from "./overlap.ts";
 import {
   type Json,
@@ -46,11 +47,15 @@ async function logged<T>(tool: string, fields: Log, body: (log: Log) => Promise<
 }
 
 /** The tool body: the overlap of both orders for `query`, enriched. Throws ToolError. */
-export function search(query: string, youtube: YouTubeClient): Promise<Video[]> {
+export function search(
+  query: string,
+  youtube: YouTubeClient,
+  extractor?: Extractor,
+): Promise<Video[]> {
   return logged("search_youtube", { query, search_calls: 0, fallback: false }, async (log) => {
     const videos = await searchOverlap(query.trim(), youtube, log);
     log.overlap_size = videos.length;
-    return videos;
+    return clean(videos, extractor, log);
   });
 }
 
@@ -110,7 +115,11 @@ function pageTwo(
 }
 
 /** The tool body: the videos YouTube still lists, in input order. Throws ToolError. */
-export function videoData(videos: string[], youtube: YouTubeClient): Promise<Video[]> {
+export function videoData(
+  videos: string[],
+  youtube: YouTubeClient,
+  extractor?: Extractor,
+): Promise<Video[]> {
   return logged("get_video_data", { videos }, async (log) => {
     const ids = videoIds(videos, log);
     const resources = await youtube.videos(ids);
@@ -123,8 +132,44 @@ export function videoData(videos: string[], youtube: YouTubeClient): Promise<Vid
       log.error_category = "NOT_FOUND";
       throw new ToolError(`YouTube has no public video with id ${ids.join(", ")}.`);
     }
-    return found;
+    return clean(found, extractor, log);
   });
+}
+
+const CLEAN_CONCURRENCY = 10; // Workers AI rate limits are undocumented
+
+/**
+ * Both tools' videos with boilerplate removed from their descriptions; unchanged without an
+ * extractor. Logs the descriptions' total size before and after, and how many got shorter.
+ */
+async function clean(
+  videos: Video[],
+  extractor: Extractor | undefined,
+  log: Log,
+): Promise<Video[]> {
+  if (!extractor) return videos;
+  const started = performance.now();
+  const cleaned = [...videos];
+  let next = 0;
+  const worker = async () => {
+    while (next < videos.length) {
+      const i = next++;
+      cleaned[i] = { ...videos[i], description: await cleanDescription(videos[i], extractor) };
+    }
+  };
+  await Promise.all(Array.from({ length: Math.min(CLEAN_CONCURRENCY, videos.length) }, worker));
+
+  const chars = (list: Video[]) => list.reduce((sum, v) => sum + (v.description?.length ?? 0), 0);
+  const before = chars(videos);
+  const after = chars(cleaned);
+  Object.assign(log, {
+    description_chars_before: before,
+    description_chars_after: after,
+    description_reduction: before ? Math.round((1 - after / before) * 100) / 100 : 0,
+    descriptions_cleaned: cleaned.filter((v, i) => v.description !== videos[i].description).length,
+    clean_ms: Math.round(performance.now() - started),
+  });
+  return cleaned;
 }
 
 /** Each entry's id, first occurrence kept; any entry without one fails the whole call. */

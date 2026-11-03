@@ -1,4 +1,4 @@
-#!include:.gitignore 
+#!include:.gitignore
 .env
 .dev.vars
 node_modules/

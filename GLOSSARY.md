@@ -21,5 +21,9 @@ Extending both lists with their second page when the first-page overlap has fewe
 _Avoid_: retry, second search, page-2 comparison
 
 **Enriched video**:
-A video together with its full details (title, full description, channel, views, publication date, length, short URL). It is what both tools return: each video in the overlap, or each video asked for by id or URL. A video in the overlap that YouTube no longer lists keeps only what its search entry showed, without views or length.
+A video together with its full details (title, description, channel, views, publication date, length, short URL). It is what both tools return: each video in the overlap, or each video asked for by id or URL. The description is the full one, or a **cleaned description** when the Worker is deployed with cleaning on (`--env clean`). A video in the overlap that YouTube no longer lists keeps only what its search entry showed, without views or length.
 _Avoid_: result item, video details, hit
+
+**Cleaned description**:
+A video's description with the channel's boilerplate (sponsors, affiliate links, courses, newsletters, socials, bios, disclaimers, hashtags) removed, keeping what is about this video and always keeping its chapter lines. When cleaning fails or finds nothing, it is the full description.
+_Avoid_: summary, trimmed description, filtered description

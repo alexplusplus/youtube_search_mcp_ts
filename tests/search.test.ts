@@ -290,3 +290,62 @@ describe("logging", () => {
     ]);
   });
 });
+
+describe("description cleaning", () => {
+  const query = "python asyncio taskgroup tutorial";
+  // Keeps only the first line: every description becomes its first line (or stays if one line).
+  const firstLine = (state: string) => {
+    const header = state.indexOf("Video description:\n") + "Video description:\n".length;
+    const end = Array.from(state.slice(0, header)).length;
+    return { value: "x", span: [end, end + 1] as [number, number] };
+  };
+
+  test("every video's description is cleaned", async () => {
+    const extract = vi.fn(async (state: string) => ({
+      content_first: firstLine(state),
+      content_last: firstLine(state),
+    }));
+
+    const plain = await search(query, client(new FakeYouTube(RECORDED)));
+    const cleaned = await search(query, client(new FakeYouTube(RECORDED)), { extract });
+
+    expect(cleaned.map((v) => v.id)).toEqual(plain.map((v) => v.id));
+    expect(extract).toHaveBeenCalled();
+    const multiline = plain.findIndex((v) => v.description?.trim().includes("\n"));
+    expect(cleaned[multiline].description).not.toBe(plain[multiline].description);
+  });
+
+  test("the log line has the descriptions' total size before and after", async () => {
+    const extract = async (state: string) => ({
+      content_first: firstLine(state),
+      content_last: firstLine(state),
+    });
+
+    const plain = await search(query, client(new FakeYouTube(RECORDED)));
+    const cleaned = await search(query, client(new FakeYouTube(RECORDED)), { extract });
+
+    const [plainLog, record] = logLines();
+    expect(plainLog).not.toHaveProperty("description_chars_before");
+    const chars = (videos: typeof plain) =>
+      videos.reduce((sum, v) => sum + (v.description?.length ?? 0), 0);
+    expect(record.description_chars_before).toBe(chars(plain));
+    expect(record.description_chars_after).toBe(chars(cleaned));
+    expect(record.description_reduction).toBeGreaterThan(0);
+    expect(record.description_reduction).toBeLessThan(1);
+    expect(record.descriptions_cleaned).toBe(
+      cleaned.filter((v, i) => v.description !== plain[i].description).length,
+    );
+    expect(Number.isInteger(record.clean_ms)).toBe(true);
+  });
+
+  test("a failing extractor doesn't fail the search", async () => {
+    const extract = async () => {
+      throw new Error("AI down");
+    };
+
+    const plain = await search(query, client(new FakeYouTube(RECORDED)));
+    const cleaned = await search(query, client(new FakeYouTube(RECORDED)), { extract });
+
+    expect(cleaned).toEqual(plain);
+  });
+});
